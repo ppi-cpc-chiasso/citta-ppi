@@ -15,10 +15,21 @@
       "addr": "Corso Ceresio 21",
       "hours": "Lu–Ve 7:30–18:30 · Sa 8:00–16:00",
       "desc": "Dal 1958 la ferramenta del borgo: utensili, viteria, colori, giardinaggio, taglio chiavi e affilatura.",
-      "roles": ["Titolare", "Consulente vendita", "Magazziniere/a", "Apprendista"],
+      "roles": [
+        "Titolare",
+        "Consulente vendita",
+        "Magazziniere/a",
+        "Apprendista"
+      ],
       "place": {
-        "b": [3, 1],
-        "lot": [-1, 1],
+        "b": [
+          3,
+          1
+        ],
+        "lot": [
+          -1,
+          1
+        ],
         "front": "S",
         "w": 16,
         "d": 16,
@@ -43,10 +54,21 @@
       "addr": "Via Monte Ceneri 8",
       "hours": "Lu–Ve 8:00–17:30",
       "desc": "Stampa offset e digitale: biglietti da visita, cataloghi, etichette, manifesti ed editoria locale.",
-      "roles": ["Direttore/trice", "Grafico/a", "Tipografo/a", "Addetto/a legatoria"],
+      "roles": [
+        "Direttore/trice",
+        "Grafico/a",
+        "Tipografo/a",
+        "Addetto/a legatoria"
+      ],
       "place": {
-        "b": [0, 2],
-        "lot": [1, -1],
+        "b": [
+          0,
+          2
+        ],
+        "lot": [
+          1,
+          -1
+        ],
         "front": "E",
         "w": 16,
         "d": 16,
@@ -72,10 +94,21 @@
       "addr": "Corso Ceresio 2",
       "hours": "Lu–Ve 8:30–12:00 · 14:00–17:30",
       "desc": "Contabilità, consulenza fiscale, revisione e amministrazione di società e immobili.",
-      "roles": ["Socio/a fondatore", "Fiduciario/a", "Contabile", "Segretario/a"],
+      "roles": [
+        "Socio/a fondatore",
+        "Fiduciario/a",
+        "Contabile",
+        "Segretario/a"
+      ],
       "place": {
-        "b": [2, 1],
-        "lot": [1, 1],
+        "b": [
+          2,
+          1
+        ],
+        "lot": [
+          1,
+          1
+        ],
         "front": "S",
         "w": 16,
         "d": 16,
@@ -101,7 +134,12 @@
       "addr": "Pontile del Lungolago",
       "hours": "Ma–Do 11:30–14:30 · 18:30–23:00",
       "desc": "Cucina ticinese sull'acqua: risotto, pesce di lago, brasato e polenta, con terrazza raggiungibile dal ponte di legno.",
-      "roles": ["Chef", "Cameriere/a", "Cameriere/a", "Sommelier"],
+      "roles": [
+        "Chef",
+        "Cameriere/a",
+        "Cameriere/a",
+        "Sommelier"
+      ],
       "special": "ristorante",
       "ppi": {
         "loc": "Lugano",
@@ -120,13 +158,30 @@
       "addr": "Via Cantonale 40",
       "hours": "Lu–Ve 7:30–18:00 · Sa 8:00–12:00",
       "desc": "Officina multimarca, carrozzeria, cambio gomme, preparazione al collaudo e distributore di carburante.",
-      "roles": ["Capo officina", "Meccanico/a", "Carrozziere/a", "Addetto/a accettazione"],
+      "roles": [
+        "Capo officina",
+        "Meccanico/a",
+        "Carrozziere/a",
+        "Addetto/a accettazione"
+      ],
       "place": {
-        "b": [4, 1],
-        "off": [0, 6],
+        "b": [
+          4,
+          1
+        ],
+        "off": [
+          0,
+          6
+        ],
         "uses": [
-          [-1, 1],
-          [1, 1]
+          [
+            -1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
         ],
         "front": "S",
         "w": 36,
@@ -155,13 +210,30 @@
       "addr": "Lungolago 5",
       "hours": "Reception aperta 24 ore su 24",
       "desc": "Hotel sul lungolago con 64 camere vista lago, spa, sala congressi e bar panoramico sul tetto.",
-      "roles": ["Direttore/trice", "Receptionist", "Portiere", "Governante"],
+      "roles": [
+        "Direttore/trice",
+        "Receptionist",
+        "Portiere",
+        "Governante"
+      ],
       "place": {
-        "b": [1, 4],
-        "off": [0, 9],
+        "b": [
+          1,
+          4
+        ],
+        "off": [
+          0,
+          9
+        ],
         "uses": [
-          [-1, 1],
-          [1, 1]
+          [
+            -1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
         ],
         "front": "S",
         "w": 36,
@@ -189,17 +261,31 @@
       "addr": "Piazza Grande 3",
       "hours": "Lu–Sa 6:00–18:30 · Do 7:00–12:00",
       "desc": "Pane cotto a legna, cornetti, pan dolce ticinese e torta di pane, sfornati ogni mattina dalle 6.",
-      "roles": ["Panettiere/a", "Pasticciere/a", "Commesso/a", "Apprendista"],
+      "roles": [
+        "Panettiere/a",
+        "Pasticciere/a",
+        "Commesso/a",
+        "Apprendista"
+      ],
       "place": {
-        "b": [3, 2],
-        "lot": [-1, -1],
+        "b": [
+          3,
+          2
+        ],
+        "lot": [
+          -1,
+          -1
+        ],
         "front": "W",
         "w": 16,
         "d": 16,
         "floors": 3,
         "roof": "pitched",
         "pal": 6,
-        "stripes": ["#f4ead5", "#8a5a2b"]
+        "stripes": [
+          "#f4ead5",
+          "#8a5a2b"
+        ]
       },
       "ppi": {
         "loc": "Balerna",
@@ -219,10 +305,21 @@
       "addr": "Corso Ceresio 9",
       "hours": "Lu–Ve 8:00–12:00 · 13:30–18:00",
       "desc": "Impianti elettrici, domotica, fotovoltaico, elettrodomestici e servizio di assistenza.",
-      "roles": ["Titolare", "Elettricista", "Installatore/trice", "Consulente"],
+      "roles": [
+        "Titolare",
+        "Elettricista",
+        "Installatore/trice",
+        "Consulente"
+      ],
       "place": {
-        "b": [1, 1],
-        "lot": [1, 1],
+        "b": [
+          1,
+          1
+        ],
+        "lot": [
+          1,
+          1
+        ],
         "front": "S",
         "w": 16,
         "d": 16,
@@ -249,10 +346,20 @@
       "addr": "Piazza Grande 10",
       "hours": "Ma–Ve 9:30–18:30 · Sa 9:30–17:00",
       "desc": "Moda donna e uomo di stilisti italiani e svizzeri, sartoria su misura e accessori.",
-      "roles": ["Titolare", "Stilista", "Sarto/a"],
+      "roles": [
+        "Titolare",
+        "Stilista",
+        "Sarto/a"
+      ],
       "place": {
-        "b": [1, 2],
-        "lot": [1, -1],
+        "b": [
+          1,
+          2
+        ],
+        "lot": [
+          1,
+          -1
+        ],
         "front": "E",
         "w": 16,
         "d": 16,
@@ -278,10 +385,21 @@
       "addr": "Via dei Pini 33",
       "hours": "Lu–Ve 7:00–12:00 · 13:00–17:00",
       "desc": "Serramenti, cucine e arredi su misura in castagno, larice e noce, dal progetto alla posa.",
-      "roles": ["Maestro/a falegname", "Falegname", "Apprendista", "Posatore/trice"],
+      "roles": [
+        "Maestro/a falegname",
+        "Falegname",
+        "Apprendista",
+        "Posatore/trice"
+      ],
       "place": {
-        "b": [0, 0],
-        "lot": [1, 1],
+        "b": [
+          0,
+          0
+        ],
+        "lot": [
+          1,
+          1
+        ],
         "front": "S",
         "w": 16,
         "d": 14,
@@ -292,7 +410,10 @@
         "noShop": true,
         "noDoor": true,
         "uses": [
-          [-1, 1]
+          [
+            -1,
+            1
+          ]
         ]
       },
       "ppi": {
@@ -312,10 +433,20 @@
       "addr": "Piazza Grande 1",
       "hours": "Lu–Ve 8:00–18:30 · Sa 8:00–17:00",
       "desc": "Farmacia e parafarmacia: consulenza, preparazioni galeniche, misurazione pressione e vaccinazioni.",
-      "roles": ["Farmacista titolare", "Farmacista", "Assistente di farmacia"],
+      "roles": [
+        "Farmacista titolare",
+        "Farmacista",
+        "Assistente di farmacia"
+      ],
       "place": {
-        "b": [2, 3],
-        "lot": [-1, -1],
+        "b": [
+          2,
+          3
+        ],
+        "lot": [
+          -1,
+          -1
+        ],
         "front": "N",
         "w": 16,
         "d": 16,
@@ -341,10 +472,20 @@
       "addr": "Via San Gottardo 12",
       "hours": "Lu–Ve 9:00–18:00 · Sa 9:00–12:00",
       "desc": "Viaggi su misura, crociere, biglietti di treno e aereo e gite di gruppo oltre il Gottardo.",
-      "roles": ["Direttore/trice", "Consulente di viaggio", "Consulente di viaggio"],
+      "roles": [
+        "Direttore/trice",
+        "Consulente di viaggio",
+        "Consulente di viaggio"
+      ],
       "place": {
-        "b": [3, 3],
-        "lot": [-1, -1],
+        "b": [
+          3,
+          3
+        ],
+        "lot": [
+          -1,
+          -1
+        ],
         "front": "N",
         "w": 16,
         "d": 16,
@@ -370,10 +511,21 @@
       "addr": "Via dei Giardini 7",
       "hours": "Lu–Sa 8:00–18:00 · Do 9:00–16:00",
       "desc": "Vivaio e garden center: piante, fiori, vasi e articoli per il giardino, dal balcone al parco.",
-      "roles": ["Titolare", "Giardiniere/a", "Addetto/a vendita", "Apprendista"],
+      "roles": [
+        "Titolare",
+        "Giardiniere/a",
+        "Addetto/a vendita",
+        "Apprendista"
+      ],
       "place": {
-        "b": [3, 0],
-        "lot": [1, 1],
+        "b": [
+          3,
+          0
+        ],
+        "lot": [
+          1,
+          1
+        ],
         "front": "S",
         "w": 16,
         "d": 16,
@@ -381,7 +533,10 @@
         "roof": "pitched",
         "pal": 9,
         "uses": [
-          [1, -1]
+          [
+            1,
+            -1
+          ]
         ]
       },
       "ppi": {
@@ -402,13 +557,30 @@
       "addr": "Via Cantonale 18",
       "hours": "Lu–Ve 7:00–18:00 · Sa 7:00–12:00",
       "desc": "Impresa di trasporti e logistica: consegne, traslochi e trasporto merci in tutto il Ticino.",
-      "roles": ["Responsabile amministrazione", "Autista", "Magazziniere/a", "Impiegato/a"],
+      "roles": [
+        "Responsabile amministrazione",
+        "Autista",
+        "Magazziniere/a",
+        "Impiegato/a"
+      ],
       "place": {
-        "b": [0, 3],
-        "off": [0, 6],
+        "b": [
+          0,
+          3
+        ],
+        "off": [
+          0,
+          6
+        ],
         "uses": [
-          [-1, 1],
-          [1, 1]
+          [
+            -1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
         ],
         "front": "S",
         "w": 36,
@@ -441,10 +613,18 @@
       "addr": "Via alla Valle 2",
       "hours": "Lu–Ve 7:00–21:30 · Sa 9:00–17:00",
       "desc": "Palestra con sala pesi, tapis roulant, corsi di gruppo e personal trainer, con grandi vetrate sulla valle.",
-      "roles": ["Gerente", "Personal trainer", "Istruttore/trice corsi", "Receptionist"],
+      "roles": [
+        "Gerente",
+        "Personal trainer",
+        "Istruttore/trice corsi",
+        "Receptionist"
+      ],
       "newUntil": "2026-11-23",
       "place": {
-        "abs": [-156, 43.5],
+        "abs": [
+          -156,
+          43.5
+        ],
         "front": "N",
         "w": 14,
         "d": 14,
@@ -475,10 +655,18 @@
       "addr": "Via Bellavista 1",
       "hours": "Ma–Sa 9:00–18:30",
       "desc": "Trattamenti viso e corpo, manicure, massaggi e prodotti di bellezza in un ambiente elegante.",
-      "roles": ["Titolare", "Estetista", "Estetista", "Massaggiatore/trice"],
+      "roles": [
+        "Titolare",
+        "Estetista",
+        "Estetista",
+        "Massaggiatore/trice"
+      ],
       "newUntil": "2026-11-23",
       "place": {
-        "abs": [158, -42.5],
+        "abs": [
+          158,
+          -42.5
+        ],
         "front": "S",
         "w": 14,
         "d": 12,
@@ -486,7 +674,10 @@
         "roof": "flat",
         "pal": 8,
         "signW": 11,
-        "stripes": ["#f7e9ef", "#b0607e"]
+        "stripes": [
+          "#f7e9ef",
+          "#b0607e"
+        ]
       },
       "ppi": {
         "loc": "Ascona",
@@ -494,6 +685,106 @@
         "tag": "🟢",
         "mail": "estetica.bellavista@outlook.com",
         "user": "esteticabellavista"
+      }
+    },
+    {
+      "name": "SpaceOffice",
+      "type": "Cancelleria e arredo ufficio",
+      "icon": "🗂️",
+      "color": "#3d5a80",
+      "emp": 4,
+      "addr": "Via Vincenzo Vela 7",
+      "hours": "Lu 8:00–12:00",
+      "desc": "Azienda del laboratorio PPI: cancelleria, arredo e attrezzature per l'ufficio.",
+      "roles": [
+        "Addetto/a vendite",
+        "Addetto/a magazzino"
+      ],
+      "ppi": {
+        "loc": "Chiasso",
+        "beh": "Azienda del laboratorio PPI",
+        "tag": "🏫",
+        "mail": "SpaceOffice.com@gmail.com"
+      }
+    },
+    {
+      "name": "Royal Parfums SA",
+      "type": "Profumeria",
+      "icon": "🌸",
+      "color": "#7a3b6a",
+      "emp": 4,
+      "addr": "Via Vincenzo Vela 7",
+      "hours": "Gi 8:00–12:00",
+      "desc": "Azienda del laboratorio PPI: profumi e fragranze.",
+      "roles": [
+        "Addetto/a vendite",
+        "Addetto/a magazzino"
+      ],
+      "ppi": {
+        "loc": "Chiasso",
+        "beh": "Azienda del laboratorio PPI",
+        "tag": "🏫",
+        "mail": "royal.parfums2026@gmail.com"
+      }
+    },
+    {
+      "name": "Sapori di casa",
+      "type": "Gastronomia e alimentari",
+      "icon": "🍲",
+      "color": "#c45c26",
+      "emp": 4,
+      "addr": "Via Vincenzo Vela 7",
+      "hours": "Orari del laboratorio PPI",
+      "desc": "Azienda del laboratorio PPI: alimenti, bevande e specialità.",
+      "roles": [
+        "Addetto/a vendite",
+        "Addetto/a magazzino"
+      ],
+      "ppi": {
+        "loc": "Chiasso",
+        "beh": "Azienda del laboratorio PPI",
+        "tag": "🏫",
+        "mail": "Saporidicasa2026@gmail.com"
+      }
+    },
+    {
+      "name": "Sportime",
+      "type": "Articoli sportivi",
+      "icon": "⚽",
+      "color": "#1b7f4e",
+      "emp": 4,
+      "addr": "Via Vincenzo Vela 7",
+      "hours": "Lu 8:00–12:00",
+      "desc": "Azienda del laboratorio PPI: abbigliamento e attrezzature sportivi.",
+      "roles": [
+        "Addetto/a vendite",
+        "Addetto/a magazzino"
+      ],
+      "ppi": {
+        "loc": "Chiasso",
+        "beh": "Azienda del laboratorio PPI",
+        "tag": "🏫",
+        "mail": "sportime26@gmail.com"
+      }
+    },
+    {
+      "name": "StreetWear SA",
+      "type": "Abbigliamento",
+      "icon": "👕",
+      "color": "#2a2a2a",
+      "emp": 4,
+      "addr": "Via Vincenzo Vela 7",
+      "hours": "Gi 8:00–12:00",
+      "desc": "Azienda del laboratorio PPI: abbigliamento streetwear e accessori.",
+      "roles": [
+        "Addetto/a vendite",
+        "Addetto/a magazzino"
+      ],
+      "ppi": {
+        "loc": "Chiasso",
+        "beh": "Azienda del laboratorio PPI",
+        "tag": "🏫",
+        "mail": "streetwearcontact1@gmail.com"
       }
     }
   ]
