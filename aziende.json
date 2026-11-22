@@ -2,7 +2,7 @@
   "_istruzioni": [
     "Elenco delle aziende di City Lab, nell'ordine in cui appaiono. Non cambiare l'ordine: i numeri di dati.json seguono questa posizione.",
     "Per aggiungere un'azienda copia un blocco, cambia i testi e mettilo IN FONDO. Il campo 'place' si può omettere: la città le trova da sola un lotto libero.",
-    "Campi: name, type, icon (emoji), color (#rrggbb), emp (dipendenti), addr, hours, desc, roles (mestieri), ppi {loc, beh, tag, mail, user}. Facoltativi: owner, sign, fg, newUntil (aaaa-mm-gg, mostra 'Nuova')."
+    "Campi: name, type, icon (emoji), color (#rrggbb), emp (dipendenti), addr, hours, desc, roles (mestieri), ppi {loc, beh, tag, mail, user}. Facoltativi: owner, sign, fg, newUntil (aaaa-mm-gg, mostra 'Nuova'), logo (percorso relativo tipo assets/loghi/slug.png, al posto dell'emoji in elenco/scheda/insegna; se manca si usa l'emoji), esterna (true: bordo blu #1c3370 del logo PPI sul cerchio sopra l'edificio)."
   ],
   "aziende": [
     {
@@ -706,7 +706,8 @@
         "tag": "🏫",
         "mail": "SpaceOffice.com@gmail.com"
       },
-      "esterna": true
+      "esterna": true,
+      "logo": "assets/loghi/spaceoffice.png"
     },
     {
       "name": "Royal Parfums SA",
@@ -727,7 +728,8 @@
         "tag": "🏫",
         "mail": "royal.parfums2026@gmail.com"
       },
-      "esterna": true
+      "esterna": true,
+      "logo": "assets/loghi/royal-parfums.png"
     },
     {
       "name": "Sapori di casa",
@@ -748,7 +750,8 @@
         "tag": "🏫",
         "mail": "Saporidicasa2026@gmail.com"
       },
-      "esterna": true
+      "esterna": true,
+      "logo": "assets/loghi/sapori-di-casa.png"
     },
     {
       "name": "Sportime",
@@ -769,7 +772,8 @@
         "tag": "🏫",
         "mail": "sportime26@gmail.com"
       },
-      "esterna": true
+      "esterna": true,
+      "logo": "assets/loghi/sportime.png"
     },
     {
       "name": "StreetWear SA",
@@ -790,7 +794,8 @@
         "tag": "🏫",
         "mail": "streetwearcontact1@gmail.com"
       },
-      "esterna": true
+      "esterna": true,
+      "logo": "assets/loghi/streetwear.png"
     }
   ]
 }
