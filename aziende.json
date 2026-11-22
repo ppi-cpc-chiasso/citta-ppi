@@ -705,7 +705,8 @@
         "beh": "Azienda del laboratorio PPI",
         "tag": "🏫",
         "mail": "SpaceOffice.com@gmail.com"
-      }
+      },
+      "esterna": true
     },
     {
       "name": "Royal Parfums SA",
@@ -725,7 +726,8 @@
         "beh": "Azienda del laboratorio PPI",
         "tag": "🏫",
         "mail": "royal.parfums2026@gmail.com"
-      }
+      },
+      "esterna": true
     },
     {
       "name": "Sapori di casa",
@@ -745,7 +747,8 @@
         "beh": "Azienda del laboratorio PPI",
         "tag": "🏫",
         "mail": "Saporidicasa2026@gmail.com"
-      }
+      },
+      "esterna": true
     },
     {
       "name": "Sportime",
@@ -765,7 +768,8 @@
         "beh": "Azienda del laboratorio PPI",
         "tag": "🏫",
         "mail": "sportime26@gmail.com"
-      }
+      },
+      "esterna": true
     },
     {
       "name": "StreetWear SA",
@@ -785,7 +789,8 @@
         "beh": "Azienda del laboratorio PPI",
         "tag": "🏫",
         "mail": "streetwearcontact1@gmail.com"
-      }
+      },
+      "esterna": true
     }
   ]
 }
