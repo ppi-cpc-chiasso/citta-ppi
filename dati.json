@@ -1,1 +1,363 @@
-{"aggiornato": "16.11.2026", "aziende": [{"ord": 2, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 1, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 1, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 2, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 1, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 2, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 1, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 0, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 1, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 0, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 2, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 2, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 0, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 1, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 0, "proc": 0, "fatt": 0, "pag": 0}, {"ord": 0, "proc": 0, "fatt": 0, "pag": 0}]}
+{
+  "aggiornato": "16.11.2026",
+  "aziende": [
+    {
+      "ord": 2,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 1,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 1,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 2,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 1,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 2,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 1,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 0,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 1,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 0,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 2,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 2,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 0,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 1,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 0,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 0,
+      "proc": 0,
+      "fatt": 0,
+      "pag": 0
+    }
+  ],
+  "acquisti": [
+    {
+      "id": "PPI-17-26",
+      "da": "Trasporti Leventina SA",
+      "a": "StreetWear SA",
+      "data": "17.11.2026",
+      "cosa": "Giubbotto invernale con cappuccio e pelliccia (blu, taglia L) e 2 beanie Syna World blu",
+      "importo": 389.85,
+      "stato": "confermato",
+      "nota": "Conferma d'ordine V-047 ricevuta da StreetWear il 19.11.2026 (08:59 xlsx e 09:12 pdf).",
+      "fasi": [
+        {
+          "data": "17.11.2026",
+          "evento": "ordinato"
+        },
+        {
+          "data": "19.11.2026",
+          "evento": "conferma d'ordine V-047 ricevuta da StreetWear"
+        }
+      ]
+    },
+    {
+      "id": "PPI-17-20",
+      "da": "Farmacia Morbio Sagl",
+      "a": "Sportime",
+      "data": "17.11.2026",
+      "cosa": "Proteine Sponser vaniglia, creatina Biotech e set elastici fitness Snowpea",
+      "importo": 340.20,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "17.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-17-19",
+      "da": "Agenzia Viaggi Gottardo SA",
+      "a": "Sportime",
+      "data": "17.11.2026",
+      "cosa": "Palloni Champions League Adidas, palle basket Wilson e set elastici fitness Snowpea",
+      "importo": 308.10,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "17.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-17-15",
+      "da": "Panetteria Fontana Sagl",
+      "a": "Sapori di casa",
+      "data": "17.11.2026",
+      "cosa": "Succhi Michel, acqua Evian, Fonzies, caramelle Trolli, ciambelle marshmallow e Takis Blue Heat",
+      "importo": 314.20,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "17.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-17-14",
+      "da": "Hotel Riva Verbano Sagl",
+      "a": "Sapori di casa",
+      "data": "17.11.2026",
+      "cosa": "Acqua Evian e San Benedetto, succhi Michel, Toffifee e vino Chardonnay",
+      "importo": 347.10,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "17.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-17-04",
+      "da": "Ristorante Al Ponte Sagl",
+      "a": "SpaceOffice",
+      "data": "17.11.2026",
+      "cosa": "Stampante HP, classificatori neri, penne Bic e chiavette USB",
+      "importo": 318.70,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "17.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-17-03",
+      "da": "Agenzia Viaggi Gottardo SA",
+      "a": "SpaceOffice",
+      "data": "17.11.2026",
+      "cosa": "Sedie da ufficio Korel, orologio digitale, classificatori neri e cestini Cestus",
+      "importo": 342.35,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "17.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-24",
+      "da": "Ferramenta Bernasconi SA",
+      "a": "StreetWear SA",
+      "data": "16.11.2026",
+      "cosa": "Hoodie Hellstar rosse e beanie Syna World rossi",
+      "importo": 339.65,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-23",
+      "da": "Boutique Lavizzari Sagl",
+      "a": "StreetWear SA",
+      "data": "16.11.2026",
+      "cosa": "Hoodie 4TUNE viola, polo Chief Keef bianche, cinture Diamant e beanie Syna World",
+      "importo": 333.60,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-18",
+      "da": "Ferramenta Bernasconi SA",
+      "a": "Sportime",
+      "data": "16.11.2026",
+      "cosa": "Palloni Champions League Adidas (misura 5) e parastinchi Nike Mercurial",
+      "importo": 346.50,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-13",
+      "da": "Garage Valmara SA",
+      "a": "Sapori di casa",
+      "data": "16.11.2026",
+      "cosa": "Pacchetto patatine per distributori, Coca-Cola e acqua frizzante San Benedetto",
+      "importo": 339.70,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-12",
+      "da": "Ristorante Al Ponte Sagl",
+      "a": "Sapori di casa",
+      "data": "16.11.2026",
+      "cosa": "Acqua Evian e San Benedetto, Coca-Cola, tiramisù e cannoli siciliani",
+      "importo": 336.30,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-08",
+      "da": "Farmacia Morbio Sagl",
+      "a": "Royal Parfums SA",
+      "data": "16.11.2026",
+      "cosa": "Profumi Dolce & Gabbana Devotion Intense, Lancôme La Nuit Trésor, Paco Rabanne Invictus e Diesel Only The Brave",
+      "importo": 356.62,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-07",
+      "da": "Hotel Riva Verbano Sagl",
+      "a": "Royal Parfums SA",
+      "data": "16.11.2026",
+      "cosa": "Profumi Victoria's Secret Coconut Passion Shimmer, Bare Vanilla e Giorgio Armani Acqua di Giò",
+      "importo": 367.19,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-02",
+      "da": "Tipografia Ceresio SA",
+      "a": "SpaceOffice",
+      "data": "16.11.2026",
+      "cosa": "Proiettore PicoPix, classificatori neri e chiavette USB",
+      "importo": 359.40,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    },
+    {
+      "id": "PPI-16-01",
+      "da": "Studio Fiduciario Rezzonico & Partner Sagl",
+      "a": "SpaceOffice",
+      "data": "16.11.2026",
+      "cosa": "Classificatori neri, penne Bic, chiavette USB, scaffale Kayar e set matite",
+      "importo": 315.60,
+      "stato": "ordinato",
+      "nota": "in attesa di conferma",
+      "fasi": [
+        {
+          "data": "16.11.2026",
+          "evento": "ordinato"
+        }
+      ]
+    }
+  ]
+}
