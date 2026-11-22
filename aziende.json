@@ -694,7 +694,7 @@
       "color": "#3d5a80",
       "emp": 4,
       "addr": "Via Vincenzo Vela 7",
-      "hours": "Lu 8:00–12:00",
+      "hours": "Gio 8:00–12:00",
       "desc": "Azienda del laboratorio PPI: cancelleria, arredo e attrezzature per l'ufficio.",
       "roles": [
         "Addetto/a vendite",
@@ -715,7 +715,7 @@
       "color": "#7a3b6a",
       "emp": 4,
       "addr": "Via Vincenzo Vela 7",
-      "hours": "Gi 8:00–12:00",
+      "hours": "Gio 8:00–12:00",
       "desc": "Azienda del laboratorio PPI: profumi e fragranze.",
       "roles": [
         "Addetto/a vendite",
@@ -736,7 +736,7 @@
       "color": "#c45c26",
       "emp": 4,
       "addr": "Via Vincenzo Vela 7",
-      "hours": "Orari del laboratorio PPI",
+      "hours": "Gio 8:00–12:00",
       "desc": "Azienda del laboratorio PPI: alimenti, bevande e specialità.",
       "roles": [
         "Addetto/a vendite",
@@ -757,7 +757,7 @@
       "color": "#1b7f4e",
       "emp": 4,
       "addr": "Via Vincenzo Vela 7",
-      "hours": "Lu 8:00–12:00",
+      "hours": "Gio 8:00–12:00",
       "desc": "Azienda del laboratorio PPI: abbigliamento e attrezzature sportivi.",
       "roles": [
         "Addetto/a vendite",
@@ -778,7 +778,7 @@
       "color": "#2a2a2a",
       "emp": 4,
       "addr": "Via Vincenzo Vela 7",
-      "hours": "Gi 8:00–12:00",
+      "hours": "Gio 8:00–12:00",
       "desc": "Azienda del laboratorio PPI: abbigliamento streetwear e accessori.",
       "roles": [
         "Addetto/a vendite",
