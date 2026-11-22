@@ -1,0 +1,500 @@
+{
+  "_istruzioni": [
+    "Elenco delle aziende di City Lab, nell'ordine in cui appaiono. Non cambiare l'ordine: i numeri di dati.json seguono questa posizione.",
+    "Per aggiungere un'azienda copia un blocco, cambia i testi e mettilo IN FONDO. Il campo 'place' si può omettere: la città le trova da sola un lotto libero.",
+    "Campi: name, type, icon (emoji), color (#rrggbb), emp (dipendenti), addr, hours, desc, roles (mestieri), ppi {loc, beh, tag, mail, user}. Facoltativi: owner, sign, fg, newUntil (aaaa-mm-gg, mostra 'Nuova')."
+  ],
+  "aziende": [
+    {
+      "name": "Ferramenta Bernasconi SA",
+      "type": "Ferramenta",
+      "icon": "🔧",
+      "color": "#b3261e",
+      "owner": "Bernasconi",
+      "emp": 9,
+      "addr": "Corso Ceresio 21",
+      "hours": "Lu–Ve 7:30–18:30 · Sa 8:00–16:00",
+      "desc": "Dal 1958 la ferramenta del borgo: utensili, viteria, colori, giardinaggio, taglio chiavi e affilatura.",
+      "roles": ["Titolare", "Consulente vendita", "Magazziniere/a", "Apprendista"],
+      "place": {
+        "b": [3, 1],
+        "lot": [-1, 1],
+        "front": "S",
+        "w": 16,
+        "d": 16,
+        "floors": 3,
+        "roof": "pitched",
+        "pal": 0
+      },
+      "ppi": {
+        "loc": "Mendrisio",
+        "beh": "Puntuale",
+        "tag": "🟢",
+        "mail": "ferramenta.bernasconi@outlook.com",
+        "user": "ferramentabernasconi"
+      }
+    },
+    {
+      "name": "Tipografia Ceresio SA",
+      "type": "Tipografia",
+      "icon": "🖨️",
+      "color": "#2f5d8a",
+      "emp": 14,
+      "addr": "Via Monte Ceneri 8",
+      "hours": "Lu–Ve 8:00–17:30",
+      "desc": "Stampa offset e digitale: biglietti da visita, cataloghi, etichette, manifesti ed editoria locale.",
+      "roles": ["Direttore/trice", "Grafico/a", "Tipografo/a", "Addetto/a legatoria"],
+      "place": {
+        "b": [0, 2],
+        "lot": [1, -1],
+        "front": "E",
+        "w": 16,
+        "d": 16,
+        "floors": 3,
+        "roof": "flat",
+        "pal": 5
+      },
+      "ppi": {
+        "loc": "Melide",
+        "beh": "Ordini grandi, paga alla scadenza",
+        "tag": "🟢",
+        "mail": "tipografia.ceresio@outlook.com",
+        "user": "tipografiaceresio"
+      }
+    },
+    {
+      "name": "Studio Fiduciario Rezzonico & Partner Sagl",
+      "type": "Fiduciaria",
+      "icon": "📊",
+      "color": "#1f3b57",
+      "owner": "Rezzonico",
+      "emp": 22,
+      "addr": "Corso Ceresio 2",
+      "hours": "Lu–Ve 8:30–12:00 · 14:00–17:30",
+      "desc": "Contabilità, consulenza fiscale, revisione e amministrazione di società e immobili.",
+      "roles": ["Socio/a fondatore", "Fiduciario/a", "Contabile", "Segretario/a"],
+      "place": {
+        "b": [2, 1],
+        "lot": [1, 1],
+        "front": "S",
+        "w": 16,
+        "d": 16,
+        "floors": 9,
+        "roof": "flat",
+        "skin": "glass",
+        "signW": 13
+      },
+      "ppi": {
+        "loc": "Bellinzona",
+        "beh": "Paga subito con sconto",
+        "tag": "🟢",
+        "mail": "studio.rezzonico@outlook.com",
+        "user": "studiorezzonico"
+      }
+    },
+    {
+      "name": "Ristorante Al Ponte Sagl",
+      "type": "Ristorante sul lago",
+      "icon": "🍝",
+      "color": "#7a2e1f",
+      "emp": 12,
+      "addr": "Pontile del Lungolago",
+      "hours": "Ma–Do 11:30–14:30 · 18:30–23:00",
+      "desc": "Cucina ticinese sull'acqua: risotto, pesce di lago, brasato e polenta, con terrazza raggiungibile dal ponte di legno.",
+      "roles": ["Chef", "Cameriere/a", "Cameriere/a", "Sommelier"],
+      "special": "ristorante",
+      "ppi": {
+        "loc": "Lugano",
+        "beh": "Ritardatario",
+        "tag": "🟠",
+        "mail": "ristorante.alponte@outlook.com",
+        "user": "ristorantealponte"
+      }
+    },
+    {
+      "name": "Garage Valmara SA",
+      "type": "Officina e distributore",
+      "icon": "🚗",
+      "color": "#d35400",
+      "emp": 11,
+      "addr": "Via Cantonale 40",
+      "hours": "Lu–Ve 7:30–18:00 · Sa 8:00–12:00",
+      "desc": "Officina multimarca, carrozzeria, cambio gomme, preparazione al collaudo e distributore di carburante.",
+      "roles": ["Capo officina", "Meccanico/a", "Carrozziere/a", "Addetto/a accettazione"],
+      "place": {
+        "b": [4, 1],
+        "off": [0, 6],
+        "uses": [
+          [-1, 1],
+          [1, 1]
+        ],
+        "front": "S",
+        "w": 36,
+        "d": 12,
+        "floors": 0,
+        "gh": 6.5,
+        "roof": "flat",
+        "pal": 4,
+        "noShop": true,
+        "noDoor": true
+      },
+      "ppi": {
+        "loc": "Chiasso",
+        "beh": "Molto ritardatario, paga dopo i solleciti",
+        "tag": "🔴",
+        "mail": "garage.valmara@outlook.com",
+        "user": "garagevalmara"
+      }
+    },
+    {
+      "name": "Hotel Riva Verbano Sagl",
+      "type": "Hotel ★★★★",
+      "icon": "🏨",
+      "color": "#0e6b6b",
+      "emp": 38,
+      "addr": "Lungolago 5",
+      "hours": "Reception aperta 24 ore su 24",
+      "desc": "Hotel sul lungolago con 64 camere vista lago, spa, sala congressi e bar panoramico sul tetto.",
+      "roles": ["Direttore/trice", "Receptionist", "Portiere", "Governante"],
+      "place": {
+        "b": [1, 4],
+        "off": [0, 9],
+        "uses": [
+          [-1, 1],
+          [1, 1]
+        ],
+        "front": "S",
+        "w": 36,
+        "d": 16,
+        "floors": 7,
+        "roof": "flat",
+        "skin": "hotel",
+        "signW": 14
+      },
+      "ppi": {
+        "loc": "Locarno",
+        "beh": "Contesta le fatture",
+        "tag": "🔴",
+        "mail": "hotel.rivaverbano@outlook.com",
+        "user": "hotelrivaverbano"
+      }
+    },
+    {
+      "name": "Panetteria Fontana Sagl",
+      "type": "Panetteria e pasticceria",
+      "icon": "🥖",
+      "color": "#8a5a2b",
+      "owner": "Fontana",
+      "emp": 7,
+      "addr": "Piazza Grande 3",
+      "hours": "Lu–Sa 6:00–18:30 · Do 7:00–12:00",
+      "desc": "Pane cotto a legna, cornetti, pan dolce ticinese e torta di pane, sfornati ogni mattina dalle 6.",
+      "roles": ["Panettiere/a", "Pasticciere/a", "Commesso/a", "Apprendista"],
+      "place": {
+        "b": [3, 2],
+        "lot": [-1, -1],
+        "front": "W",
+        "w": 16,
+        "d": 16,
+        "floors": 3,
+        "roof": "pitched",
+        "pal": 6,
+        "stripes": ["#f4ead5", "#8a5a2b"]
+      },
+      "ppi": {
+        "loc": "Balerna",
+        "beh": "Puntuale, ordini piccoli e frequenti",
+        "tag": "🟢",
+        "mail": "panetteria.fontana@outlook.com",
+        "user": "panetteriafontana"
+      }
+    },
+    {
+      "name": "Elettro Brenni SA",
+      "type": "Impianti elettrici",
+      "icon": "💡",
+      "color": "#1565c0",
+      "owner": "Brenni",
+      "emp": 16,
+      "addr": "Corso Ceresio 9",
+      "hours": "Lu–Ve 8:00–12:00 · 13:30–18:00",
+      "desc": "Impianti elettrici, domotica, fotovoltaico, elettrodomestici e servizio di assistenza.",
+      "roles": ["Titolare", "Elettricista", "Installatore/trice", "Consulente"],
+      "place": {
+        "b": [1, 1],
+        "lot": [1, 1],
+        "front": "S",
+        "w": 16,
+        "d": 16,
+        "floors": 4,
+        "roof": "flat",
+        "pal": 2
+      },
+      "ppi": {
+        "loc": "Stabio",
+        "beh": "Chiede il pagamento a rate",
+        "tag": "🟠",
+        "mail": "elettro.brenni@outlook.com",
+        "user": "elettrobrenni"
+      }
+    },
+    {
+      "name": "Boutique Lavizzari Sagl",
+      "type": "Moda e sartoria",
+      "icon": "👗",
+      "color": "#141414",
+      "fg": "#d8b25a",
+      "owner": "Lavizzari",
+      "emp": 5,
+      "addr": "Piazza Grande 10",
+      "hours": "Ma–Ve 9:30–18:30 · Sa 9:30–17:00",
+      "desc": "Moda donna e uomo di stilisti italiani e svizzeri, sartoria su misura e accessori.",
+      "roles": ["Titolare", "Stilista", "Sarto/a"],
+      "place": {
+        "b": [1, 2],
+        "lot": [1, -1],
+        "front": "E",
+        "w": 16,
+        "d": 16,
+        "floors": 4,
+        "roof": "pitched",
+        "pal": 8
+      },
+      "ppi": {
+        "loc": "Lugano",
+        "beh": "Fa resi parziali",
+        "tag": "🟠",
+        "mail": "boutique.lavizzari@outlook.com",
+        "user": "boutiquelavizzari"
+      }
+    },
+    {
+      "name": "Falegnameria Cattaneo SA",
+      "type": "Falegnameria",
+      "icon": "🪚",
+      "color": "#6d4c2f",
+      "owner": "Cattaneo",
+      "emp": 13,
+      "addr": "Via dei Pini 33",
+      "hours": "Lu–Ve 7:00–12:00 · 13:00–17:00",
+      "desc": "Serramenti, cucine e arredi su misura in castagno, larice e noce, dal progetto alla posa.",
+      "roles": ["Maestro/a falegname", "Falegname", "Apprendista", "Posatore/trice"],
+      "place": {
+        "b": [0, 0],
+        "lot": [1, 1],
+        "front": "S",
+        "w": 16,
+        "d": 14,
+        "floors": 0,
+        "gh": 6.5,
+        "roof": "pitched",
+        "pal": 7,
+        "noShop": true,
+        "noDoor": true,
+        "uses": [
+          [-1, 1]
+        ]
+      },
+      "ppi": {
+        "loc": "Biasca",
+        "beh": "Paga un acconto anticipato",
+        "tag": "🟢",
+        "mail": "falegnameria.cattaneo@proton.me",
+        "user": "falegnameriacattaneo"
+      }
+    },
+    {
+      "name": "Farmacia Morbio Sagl",
+      "type": "Farmacia",
+      "icon": "⚕️",
+      "color": "#1e8e3e",
+      "emp": 8,
+      "addr": "Piazza Grande 1",
+      "hours": "Lu–Ve 8:00–18:30 · Sa 8:00–17:00",
+      "desc": "Farmacia e parafarmacia: consulenza, preparazioni galeniche, misurazione pressione e vaccinazioni.",
+      "roles": ["Farmacista titolare", "Farmacista", "Assistente di farmacia"],
+      "place": {
+        "b": [2, 3],
+        "lot": [-1, -1],
+        "front": "N",
+        "w": 16,
+        "d": 16,
+        "floors": 3,
+        "roof": "pitched",
+        "pal": 3
+      },
+      "ppi": {
+        "loc": "Morbio Inferiore",
+        "beh": "Puntuale, a volte paga importi sbagliati",
+        "tag": "🟠",
+        "mail": "farmacia.morbio@proton.me",
+        "user": "farmaciamorbio"
+      }
+    },
+    {
+      "name": "Agenzia Viaggi Gottardo SA",
+      "type": "Agenzia viaggi",
+      "icon": "✈️",
+      "color": "#e0a100",
+      "fg": "#1d1d1d",
+      "emp": 6,
+      "addr": "Via San Gottardo 12",
+      "hours": "Lu–Ve 9:00–18:00 · Sa 9:00–12:00",
+      "desc": "Viaggi su misura, crociere, biglietti di treno e aereo e gite di gruppo oltre il Gottardo.",
+      "roles": ["Direttore/trice", "Consulente di viaggio", "Consulente di viaggio"],
+      "place": {
+        "b": [3, 3],
+        "lot": [-1, -1],
+        "front": "N",
+        "w": 16,
+        "d": 16,
+        "floors": 4,
+        "roof": "flat",
+        "pal": 10
+      },
+      "ppi": {
+        "loc": "Airolo",
+        "beh": "Perde le fatture, chiede duplicati, lieve ritardo",
+        "tag": "🟠",
+        "mail": "viaggi.gottardo@proton.me",
+        "user": "viaggigottardo"
+      }
+    },
+    {
+      "name": "Vivaio Morcote Sagl",
+      "type": "Vivaio e garden center",
+      "icon": "🌿",
+      "color": "#2e7d32",
+      "owner": "Morosoli",
+      "emp": 8,
+      "addr": "Via dei Giardini 7",
+      "hours": "Lu–Sa 8:00–18:00 · Do 9:00–16:00",
+      "desc": "Vivaio e garden center: piante, fiori, vasi e articoli per il giardino, dal balcone al parco.",
+      "roles": ["Titolare", "Giardiniere/a", "Addetto/a vendita", "Apprendista"],
+      "place": {
+        "b": [3, 0],
+        "lot": [1, 1],
+        "front": "S",
+        "w": 16,
+        "d": 16,
+        "floors": 2,
+        "roof": "pitched",
+        "pal": 9,
+        "uses": [
+          [1, -1]
+        ]
+      },
+      "ppi": {
+        "loc": "Morcote",
+        "beh": "Modifica spesso l'ordine dopo la conferma",
+        "tag": "🟠",
+        "mail": "vivaio.morcote@proton.me",
+        "user": "vivaiomorcote"
+      }
+    },
+    {
+      "name": "Trasporti Leventina SA",
+      "type": "Trasporti e logistica",
+      "icon": "🚚",
+      "color": "#2f4a6e",
+      "owner": "Gianella",
+      "emp": 15,
+      "addr": "Via Cantonale 18",
+      "hours": "Lu–Ve 7:00–18:00 · Sa 7:00–12:00",
+      "desc": "Impresa di trasporti e logistica: consegne, traslochi e trasporto merci in tutto il Ticino.",
+      "roles": ["Responsabile amministrazione", "Autista", "Magazziniere/a", "Impiegato/a"],
+      "place": {
+        "b": [0, 3],
+        "off": [0, 6],
+        "uses": [
+          [-1, 1],
+          [1, 1]
+        ],
+        "front": "S",
+        "w": 36,
+        "d": 12,
+        "floors": 0,
+        "gh": 7,
+        "roof": "flat",
+        "pal": 5,
+        "noShop": true,
+        "noDoor": true
+      },
+      "ppi": {
+        "loc": "Faido",
+        "beh": "A volte paga due volte la stessa fattura",
+        "tag": "🟠",
+        "mail": "trasporti.leventina@proton.me",
+        "user": "trasportileventina"
+      }
+    },
+    {
+      "name": "Centro Fitness Monte Brè Sagl",
+      "type": "Palestra e fitness",
+      "icon": "🏋️",
+      "color": "#e4572e",
+      "sign": "Fitness Monte Brè",
+      "owner": "Righetti",
+      "ref": "Mattia Righetti",
+      "refF": false,
+      "emp": 9,
+      "addr": "Via alla Valle 2",
+      "hours": "Lu–Ve 7:00–21:30 · Sa 9:00–17:00",
+      "desc": "Palestra con sala pesi, tapis roulant, corsi di gruppo e personal trainer, con grandi vetrate sulla valle.",
+      "roles": ["Gerente", "Personal trainer", "Istruttore/trice corsi", "Receptionist"],
+      "newUntil": "2026-11-23",
+      "place": {
+        "abs": [-156, 43.5],
+        "front": "N",
+        "w": 14,
+        "d": 14,
+        "floors": 1,
+        "gh": 4.8,
+        "roof": "flat",
+        "skin": "glass",
+        "signW": 10
+      },
+      "ppi": {
+        "loc": "Lugano-Cassarate",
+        "beh": "Paga in ritardo, a volte chiede di pagare a rate",
+        "tag": "🟠",
+        "mail": "fitness.montebre@tutamail.com",
+        "user": "fitnessmontebre"
+      }
+    },
+    {
+      "name": "Centro Estetico Bellavista Sagl",
+      "type": "Estetica e benessere",
+      "icon": "💅",
+      "color": "#b0607e",
+      "sign": "Centro Estetico Bellavista",
+      "owner": "Pedroni",
+      "ref": "Silvia Pedroni",
+      "refF": true,
+      "emp": 5,
+      "addr": "Via Bellavista 1",
+      "hours": "Ma–Sa 9:00–18:30",
+      "desc": "Trattamenti viso e corpo, manicure, massaggi e prodotti di bellezza in un ambiente elegante.",
+      "roles": ["Titolare", "Estetista", "Estetista", "Massaggiatore/trice"],
+      "newUntil": "2026-11-23",
+      "place": {
+        "abs": [158, -42.5],
+        "front": "S",
+        "w": 14,
+        "d": 12,
+        "floors": 2,
+        "roof": "flat",
+        "pal": 8,
+        "signW": 11,
+        "stripes": ["#f7e9ef", "#b0607e"]
+      },
+      "ppi": {
+        "loc": "Ascona",
+        "beh": "Puntuale, chiede spesso offerte",
+        "tag": "🟢",
+        "mail": "estetica.bellavista@outlook.com",
+        "user": "esteticabellavista"
+      }
+    }
+  ]
+}
