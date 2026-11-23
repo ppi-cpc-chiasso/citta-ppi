@@ -2,55 +2,13 @@
  "aggiornato": "23.11.2026",
  "aziende": [
   {
-   "ord": 2,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
-   "ord": 2,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
-   "ord": 2,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
-   "ord": 2,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
-   "ord": 1,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
    "ord": 3,
    "proc": 0,
    "fatt": 0,
    "pag": 0
   },
   {
-   "ord": 1,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
-   "ord": 0,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
-   "ord": 1,
+   "ord": 2,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -62,7 +20,13 @@
    "pag": 0
   },
   {
-   "ord": 3,
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -86,7 +50,37 @@
    "pag": 0
   },
   {
-   "ord": 1,
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 3,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 3,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -98,7 +92,7 @@
    "pag": 0
   },
   {
-   "ord": 4,
+   "ord": 1,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -110,19 +104,25 @@
    "pag": 0
   },
   {
-   "ord": 6,
+   "ord": 7,
    "proc": 0,
    "fatt": 0,
    "pag": 0
   },
   {
-   "ord": 6,
+   "ord": 7,
    "proc": 0,
    "fatt": 0,
    "pag": 0
   },
   {
-   "ord": 6,
+   "ord": 7,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 7,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -168,6 +168,102 @@
    "data": "23.11.2026",
    "cosa": "10× Tappetino stretch/yoga rosso; 10× Set elastici fitness Snowpea; 6× Cuffia nuoto Speedo nera; 4× Occhialini da nuoto",
    "importo": 626.9,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-23-31",
+   "da": "Ferramenta Bernasconi SA",
+   "a": "Sapori di casa",
+   "data": "23.11.2026",
+   "cosa": "20× Panuozzo bresaola, mozzarella e rucola; 6× Coca-Cola Original; 24× Acqua frizzante San Benedetto 0.5 L; 15× Tiramisù; 4× Vino bianco Chardonnay (Borgogna)",
+   "importo": 331.45,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-25",
+   "da": "Garage Valmara SA",
+   "a": "StreetWear SA",
+   "data": "23.11.2026",
+   "cosa": "2× Hoodie Hellstar – nero, taglia L; 1× Hoodie Hellstar – nero, taglia XL; 1× Gorpcore Jeans neri a gamba larga – neri, taglia L; 2× Beanie Syna World (blu, rosso, giallo) – blu",
+   "importo": 329.7,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-09",
+   "da": "Boutique Lavizzari Sagl",
+   "a": "Royal Parfums SA",
+   "data": "23.11.2026",
+   "cosa": "2× Valentino Born in Roma, profumo donna; 2× Yves Saint Laurent Opio Nero, profumo donna; 1× Boss Bottled, profumo uomo; 1× Jean Paul Gaultier Le Male Le Parfum",
+   "importo": 349.14,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-21",
+   "da": "Elettro Brenni SA",
+   "a": "Sportime",
+   "data": "23.11.2026",
+   "cosa": "8× Tappetino stretch/yoga rosso; 8× Set elastici fitness Snowpea; 1× Pallone Champions League Adidas – misura 5",
+   "importo": 345.7,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-05",
+   "da": "Panetteria Fontana Sagl",
+   "a": "SpaceOffice",
+   "data": "23.11.2026",
+   "cosa": "1× Cassettiera bianca (Kayar mobile bianco), 100x80x40 cm; 2× Scaffale bianco 150x100 cm (Kayar); 1× Orologio digitale da scrivania, nero; 3× Cestino (Cestus) 6 L; 2× Classificatori neri",
+   "importo": 312.9,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-06",
+   "da": "Elettro Brenni SA",
+   "a": "SpaceOffice",
+   "data": "23.11.2026",
+   "cosa": "1× Tavolo da ufficio grigio scuro 170x70 cm; 1× Sedia da ufficio ergonomica nera (Korel); 1× Cestino (Cestus) 6 L; 1× Armadio da ufficio in metallo 180x100 cm",
+   "importo": 593.9,
    "stato": "ordinato",
    "nota": "Conferma d'ordine: no",
    "fasi": [
