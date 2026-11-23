@@ -1,493 +1,593 @@
 {
-  "aggiornato": "23.11.2026",
-  "aziende": [
+ "aggiornato": "23.11.2026",
+ "aziende": [
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 1,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 3,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 1,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 0,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 1,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 3,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 3,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 2,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 1,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 1,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 4,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 6,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 6,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 6,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 6,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  }
+ ],
+ "acquisti": [
+  {
+   "id": "PPI-23-34",
+   "da": "Farmacia Morbio Sagl",
+   "a": "StreetWear SA",
+   "data": "23.11.2026",
+   "cosa": "1× Giubbotto invernale con cappuccio e pelliccia – grigio, taglia M; 1× Hoodie Hellstar – blu, taglia L; 1× Beanie Syna World (blu, rosso, giallo) – rosso",
+   "importo": 439.85,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
     {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 1,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 1,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 1,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 1,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 0,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 1,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 1,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 0,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 4,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 2,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 6,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 5,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 5,
-      "proc": 0,
-      "fatt": 0,
-      "pag": 0
+     "data": "23.11.2026",
+     "evento": "ordinato"
     }
-  ],
-  "acquisti": [
+   ]
+  },
+  {
+   "id": "PPI-23-33",
+   "da": "Agenzia Viaggi Gottardo SA",
+   "a": "Royal Parfums SA",
+   "data": "23.11.2026",
+   "cosa": "4× Victoria's Secret Coconut Passion Shimmer; 4× Victoria's Secret Bare Vanilla; 3× Diesel Only The Brave",
+   "importo": 302.27,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
     {
-      "id": "PPI-18-30",
-      "da": "Centro Fitness Monte Brè Sagl",
-      "a": "Sportime",
-      "data": "23.11.2026",
-      "cosa": "2× Orologio fitness smart resistente all'acqua; 2× Proteine Sponser vaniglia; 1× Creatina Biotech",
-      "importo": 361.15,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "23.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-18-22",
-      "da": "Trasporti Leventina SA",
-      "a": "Sportime",
-      "data": "23.11.2026",
-      "cosa": "1× Mazza/bastone hockey (Reebok 6k); 1× Casco hockey CCM nero; 1× Guantoni hockey Bauer; 20× Disco da hockey",
-      "importo": 647.8,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "23.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-18-27",
-      "da": "Falegnameria Cattaneo SA",
-      "a": "StreetWear SA",
-      "data": "23.11.2026",
-      "cosa": "2× Hoodie Hellstar – nero, taglia M; 2× Hoodie Hellstar – nero, taglia L; 2× Beanie Syna World (blu, rosso, giallo) – giallo",
-      "importo": 319.7,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "23.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-18-17",
-      "da": "Falegnameria Cattaneo SA",
-      "a": "Sapori di casa",
-      "data": "23.11.2026",
-      "cosa": "40× Panuozzo bresaola, mozzarella e rucola; 20× Pizza Margherita pronta Regina; 15× Vino rosso Barolo (Piemonte); 6× Coca-Cola Original; 40× Acqua frizzante San Benedetto 0.5 L; 12× Tiramisù",
-      "importo": 621.8,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "23.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-18-28",
-      "da": "Vivaio Morcote Sagl",
-      "a": "StreetWear SA",
-      "data": "23.11.2026",
-      "cosa": "2× Hoodie Hellstar – blu, taglia M; 1× Hoodie Hellstar – blu, taglia L; 5× Beanie Syna World (blu, rosso, giallo) – giallo",
-      "importo": 309.6,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "23.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-18-16",
-      "da": "Vivaio Morcote Sagl",
-      "a": "Sapori di casa",
-      "data": "23.11.2026",
-      "cosa": "40× Acqua naturale Evian 0.5 L; 40× Succo di frutta Michel 0.25 L; 30× Toffifee (Storck) caramello e cioccolato; 12× Biscotti vegani al cacao Natruly; 20× Caramelle Trolli vermi alla frutta",
-      "importo": 321.7,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "23.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-17-26",
-      "da": "Trasporti Leventina SA",
-      "a": "StreetWear SA",
-      "data": "17.11.2026",
-      "cosa": "Giubbotto invernale con cappuccio e pelliccia (blu, taglia L) e 2 beanie Syna World blu",
-      "importo": 389.85,
-      "stato": "confermato",
-      "nota": "Conferma d'ordine: sì, 19.11.2026 (V-047, Gabriel La Marca). Righe: STR-008 giacca con cappuccio blu L CHF 349.95; 2× STR-011 berretto blu CHF 39.90. Totale CHF 389.85, coincide con l'ordine. Nessuna scadenza né termine di consegna indicati.",
-      "fasi": [
-        {
-          "data": "17.11.2026",
-          "evento": "ordinato"
-        },
-        {
-          "data": "19.11.2026",
-          "evento": "conferma d'ordine V-047 ricevuta da StreetWear"
-        }
-      ]
-    },
-    {
-      "id": "PPI-17-20",
-      "da": "Farmacia Morbio Sagl",
-      "a": "Sportime",
-      "data": "17.11.2026",
-      "cosa": "Proteine Sponser vaniglia, creatina Biotech e set elastici fitness Snowpea",
-      "importo": 340.2,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "17.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-17-19",
-      "da": "Agenzia Viaggi Gottardo SA",
-      "a": "Sportime",
-      "data": "17.11.2026",
-      "cosa": "Palloni Champions League Adidas, palle basket Wilson e set elastici fitness Snowpea",
-      "importo": 308.1,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "17.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-17-15",
-      "da": "Panetteria Fontana Sagl",
-      "a": "Sapori di casa",
-      "data": "17.11.2026",
-      "cosa": "Succhi Michel, acqua Evian, Fonzies, caramelle Trolli, ciambelle marshmallow e Takis Blue Heat",
-      "importo": 314.2,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "17.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-17-14",
-      "da": "Hotel Riva Verbano Sagl",
-      "a": "Sapori di casa",
-      "data": "17.11.2026",
-      "cosa": "Acqua Evian e San Benedetto, succhi Michel, Toffifee e vino Chardonnay",
-      "importo": 347.1,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "17.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-17-04",
-      "da": "Ristorante Al Ponte Sagl",
-      "a": "SpaceOffice",
-      "data": "17.11.2026",
-      "cosa": "Stampante HP, classificatori neri, penne Bic e chiavette USB",
-      "importo": 318.7,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "17.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-17-03",
-      "da": "Agenzia Viaggi Gottardo SA",
-      "a": "SpaceOffice",
-      "data": "17.11.2026",
-      "cosa": "Sedie da ufficio Korel, orologio digitale, classificatori neri e cestini Cestus",
-      "importo": 342.35,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "17.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-24",
-      "da": "Ferramenta Bernasconi SA",
-      "a": "StreetWear SA",
-      "data": "16.11.2026",
-      "cosa": "Hoodie Hellstar rosse e beanie Syna World rossi",
-      "importo": 339.65,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-23",
-      "da": "Boutique Lavizzari Sagl",
-      "a": "StreetWear SA",
-      "data": "16.11.2026",
-      "cosa": "Hoodie 4TUNE viola, polo Chief Keef bianche, cinture Diamant e beanie Syna World",
-      "importo": 333.6,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-18",
-      "da": "Ferramenta Bernasconi SA",
-      "a": "Sportime",
-      "data": "16.11.2026",
-      "cosa": "Palloni Champions League Adidas (misura 5) e parastinchi Nike Mercurial",
-      "importo": 346.5,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-13",
-      "da": "Garage Valmara SA",
-      "a": "Sapori di casa",
-      "data": "16.11.2026",
-      "cosa": "Pacchetto patatine per distributori, Coca-Cola e acqua frizzante San Benedetto",
-      "importo": 339.7,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-12",
-      "da": "Ristorante Al Ponte Sagl",
-      "a": "Sapori di casa",
-      "data": "16.11.2026",
-      "cosa": "Acqua Evian e San Benedetto, Coca-Cola, tiramisù e cannoli siciliani",
-      "importo": 336.3,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-08",
-      "da": "Farmacia Morbio Sagl",
-      "a": "Royal Parfums SA",
-      "data": "16.11.2026",
-      "cosa": "Profumi Dolce & Gabbana Devotion Intense, Lancôme La Nuit Trésor, Paco Rabanne Invictus e Diesel Only The Brave",
-      "importo": 356.62,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        },
-        {
-          "data": "23.11.2026",
-          "evento": "rinviato all'indirizzo corretto"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-07",
-      "da": "Hotel Riva Verbano Sagl",
-      "a": "Royal Parfums SA",
-      "data": "16.11.2026",
-      "cosa": "Profumi Victoria's Secret Coconut Passion Shimmer, Bare Vanilla e Giorgio Armani Acqua di Giò",
-      "importo": 367.19,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-02",
-      "da": "Tipografia Ceresio SA",
-      "a": "SpaceOffice",
-      "data": "16.11.2026",
-      "cosa": "Proiettore PicoPix, classificatori neri e chiavette USB",
-      "importo": 359.4,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        }
-      ]
-    },
-    {
-      "id": "PPI-16-01",
-      "da": "Studio Fiduciario Rezzonico & Partner Sagl",
-      "a": "SpaceOffice",
-      "data": "16.11.2026",
-      "cosa": "Classificatori neri, penne Bic, chiavette USB, scaffale Kayar e set matite",
-      "importo": 315.6,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
-      "fasi": [
-        {
-          "data": "16.11.2026",
-          "evento": "ordinato"
-        }
-      ]
+     "data": "23.11.2026",
+     "evento": "ordinato"
     }
-  ]
+   ]
+  },
+  {
+   "id": "PPI-23-32",
+   "da": "Hotel Riva Verbano Sagl",
+   "a": "Sportime",
+   "data": "23.11.2026",
+   "cosa": "10× Tappetino stretch/yoga rosso; 10× Set elastici fitness Snowpea; 6× Cuffia nuoto Speedo nera; 4× Occhialini da nuoto",
+   "importo": 626.9,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-29",
+   "da": "Centro Estetico Bellavista Sagl",
+   "a": "Royal Parfums SA",
+   "data": "23.11.2026",
+   "cosa": "2× Lancôme La Nuit Trésor, profumo donna; 2× Valentino Born in Roma, profumo donna; 1× Yves Saint Laurent Opio Nero, profumo donna; 3× Victoria's Secret Coconut Passion Shimmer",
+   "importo": 345.88,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-11",
+   "da": "Tipografia Ceresio SA",
+   "a": "Royal Parfums SA",
+   "data": "23.11.2026",
+   "cosa": "4× Paco Rabanne Invictus, profumo uomo; 4× Dolce & Gabbana Devotion Intense, profumo donna",
+   "importo": 562.12,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-10",
+   "da": "Studio Fiduciario Rezzonico & Partner Sagl",
+   "a": "Royal Parfums SA",
+   "data": "23.11.2026",
+   "cosa": "3× Giorgio Armani Acqua di Giò; 3× Yves Saint Laurent Myself, profumo uomo",
+   "importo": 323.94,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-30",
+   "da": "Centro Fitness Monte Brè Sagl",
+   "a": "Sportime",
+   "data": "23.11.2026",
+   "cosa": "2× Orologio fitness smart resistente all'acqua; 2× Proteine Sponser vaniglia; 1× Creatina Biotech",
+   "importo": 361.15,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-22",
+   "da": "Trasporti Leventina SA",
+   "a": "Sportime",
+   "data": "23.11.2026",
+   "cosa": "1× Mazza/bastone hockey (Reebok 6k); 1× Casco hockey CCM nero; 1× Guantoni hockey Bauer; 20× Disco da hockey",
+   "importo": 647.8,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-27",
+   "da": "Falegnameria Cattaneo SA",
+   "a": "StreetWear SA",
+   "data": "23.11.2026",
+   "cosa": "2× Hoodie Hellstar – nero, taglia M; 2× Hoodie Hellstar – nero, taglia L; 2× Beanie Syna World (blu, rosso, giallo) – giallo",
+   "importo": 319.7,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-17",
+   "da": "Falegnameria Cattaneo SA",
+   "a": "Sapori di casa",
+   "data": "23.11.2026",
+   "cosa": "40× Panuozzo bresaola, mozzarella e rucola; 20× Pizza Margherita pronta Regina; 15× Vino rosso Barolo (Piemonte); 6× Coca-Cola Original; 40× Acqua frizzante San Benedetto 0.5 L; 12× Tiramisù",
+   "importo": 621.8,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-28",
+   "da": "Vivaio Morcote Sagl",
+   "a": "StreetWear SA",
+   "data": "23.11.2026",
+   "cosa": "2× Hoodie Hellstar – blu, taglia M; 1× Hoodie Hellstar – blu, taglia L; 5× Beanie Syna World (blu, rosso, giallo) – giallo",
+   "importo": 309.6,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-18-16",
+   "da": "Vivaio Morcote Sagl",
+   "a": "Sapori di casa",
+   "data": "23.11.2026",
+   "cosa": "40× Acqua naturale Evian 0.5 L; 40× Succo di frutta Michel 0.25 L; 30× Toffifee (Storck) caramello e cioccolato; 12× Biscotti vegani al cacao Natruly; 20× Caramelle Trolli vermi alla frutta",
+   "importo": 321.7,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-26",
+   "da": "Trasporti Leventina SA",
+   "a": "StreetWear SA",
+   "data": "17.11.2026",
+   "cosa": "Giubbotto invernale con cappuccio e pelliccia (blu, taglia L) e 2 beanie Syna World blu",
+   "importo": 389.85,
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 19.11.2026 (V-047, Gabriel La Marca). Righe: STR-008 giacca con cappuccio blu L CHF 349.95; 2× STR-011 berretto blu CHF 39.90. Totale CHF 389.85, coincide con l'ordine. Nessuna scadenza né termine di consegna indicati.",
+   "fasi": [
+    {
+     "data": "17.11.2026",
+     "evento": "ordinato"
+    },
+    {
+     "data": "19.11.2026",
+     "evento": "conferma d'ordine V-047 ricevuta da StreetWear"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-20",
+   "da": "Farmacia Morbio Sagl",
+   "a": "Sportime",
+   "data": "17.11.2026",
+   "cosa": "Proteine Sponser vaniglia, creatina Biotech e set elastici fitness Snowpea",
+   "importo": 340.2,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "17.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-19",
+   "da": "Agenzia Viaggi Gottardo SA",
+   "a": "Sportime",
+   "data": "17.11.2026",
+   "cosa": "Palloni Champions League Adidas, palle basket Wilson e set elastici fitness Snowpea",
+   "importo": 308.1,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "17.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-15",
+   "da": "Panetteria Fontana Sagl",
+   "a": "Sapori di casa",
+   "data": "17.11.2026",
+   "cosa": "Succhi Michel, acqua Evian, Fonzies, caramelle Trolli, ciambelle marshmallow e Takis Blue Heat",
+   "importo": 314.2,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "17.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-14",
+   "da": "Hotel Riva Verbano Sagl",
+   "a": "Sapori di casa",
+   "data": "17.11.2026",
+   "cosa": "Acqua Evian e San Benedetto, succhi Michel, Toffifee e vino Chardonnay",
+   "importo": 347.1,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "17.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-04",
+   "da": "Ristorante Al Ponte Sagl",
+   "a": "SpaceOffice",
+   "data": "17.11.2026",
+   "cosa": "Stampante HP, classificatori neri, penne Bic e chiavette USB",
+   "importo": 318.7,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "17.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-17-03",
+   "da": "Agenzia Viaggi Gottardo SA",
+   "a": "SpaceOffice",
+   "data": "17.11.2026",
+   "cosa": "Sedie da ufficio Korel, orologio digitale, classificatori neri e cestini Cestus",
+   "importo": 342.35,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "17.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-24",
+   "da": "Ferramenta Bernasconi SA",
+   "a": "StreetWear SA",
+   "data": "16.11.2026",
+   "cosa": "Hoodie Hellstar rosse e beanie Syna World rossi",
+   "importo": 339.65,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-23",
+   "da": "Boutique Lavizzari Sagl",
+   "a": "StreetWear SA",
+   "data": "16.11.2026",
+   "cosa": "Hoodie 4TUNE viola, polo Chief Keef bianche, cinture Diamant e beanie Syna World",
+   "importo": 333.6,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-18",
+   "da": "Ferramenta Bernasconi SA",
+   "a": "Sportime",
+   "data": "16.11.2026",
+   "cosa": "Palloni Champions League Adidas (misura 5) e parastinchi Nike Mercurial",
+   "importo": 346.5,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-13",
+   "da": "Garage Valmara SA",
+   "a": "Sapori di casa",
+   "data": "16.11.2026",
+   "cosa": "Pacchetto patatine per distributori, Coca-Cola e acqua frizzante San Benedetto",
+   "importo": 339.7,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-12",
+   "da": "Ristorante Al Ponte Sagl",
+   "a": "Sapori di casa",
+   "data": "16.11.2026",
+   "cosa": "Acqua Evian e San Benedetto, Coca-Cola, tiramisù e cannoli siciliani",
+   "importo": 336.3,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-08",
+   "da": "Farmacia Morbio Sagl",
+   "a": "Royal Parfums SA",
+   "data": "16.11.2026",
+   "cosa": "Profumi Dolce & Gabbana Devotion Intense, Lancôme La Nuit Trésor, Paco Rabanne Invictus e Diesel Only The Brave",
+   "importo": 356.62,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    },
+    {
+     "data": "23.11.2026",
+     "evento": "rinviato all'indirizzo corretto"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-07",
+   "da": "Hotel Riva Verbano Sagl",
+   "a": "Royal Parfums SA",
+   "data": "16.11.2026",
+   "cosa": "Profumi Victoria's Secret Coconut Passion Shimmer, Bare Vanilla e Giorgio Armani Acqua di Giò",
+   "importo": 367.19,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    },
+    {
+     "data": "23.11.2026",
+     "evento": "rinviato all'indirizzo corretto"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-02",
+   "da": "Tipografia Ceresio SA",
+   "a": "SpaceOffice",
+   "data": "16.11.2026",
+   "cosa": "Proiettore PicoPix, classificatori neri e chiavette USB",
+   "importo": 359.4,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-16-01",
+   "da": "Studio Fiduciario Rezzonico & Partner Sagl",
+   "a": "SpaceOffice",
+   "data": "16.11.2026",
+   "cosa": "Classificatori neri, penne Bic, chiavette USB, scaffale Kayar e set matite",
+   "importo": 315.6,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "16.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  }
+ ]
 }
