@@ -14,13 +14,13 @@
    "pag": 0
   },
   {
-   "ord": 2,
+   "ord": 3,
    "proc": 0,
    "fatt": 0,
    "pag": 0
   },
   {
-   "ord": 2,
+   "ord": 3,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -44,13 +44,13 @@
    "pag": 0
   },
   {
-   "ord": 2,
+   "ord": 3,
    "proc": 0,
    "fatt": 0,
    "pag": 0
   },
   {
-   "ord": 2,
+   "ord": 3,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -98,7 +98,19 @@
    "pag": 0
   },
   {
-   "ord": 6,
+   "ord": 8,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 9,
+   "proc": 0,
+   "fatt": 0,
+   "pag": 0
+  },
+  {
+   "ord": 9,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -110,37 +122,153 @@
    "pag": 0
   },
   {
-   "ord": 7,
+   "ord": 9,
    "proc": 0,
    "fatt": 0,
    "pag": 0
   },
   {
-   "ord": 7,
+   "ord": 2,
    "proc": 0,
    "fatt": 0,
    "pag": 0
   },
   {
-   "ord": 7,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
-   "ord": 0,
-   "proc": 0,
-   "fatt": 0,
-   "pag": 0
-  },
-  {
-   "ord": 0,
+   "ord": 2,
    "proc": 0,
    "fatt": 0,
    "pag": 0
   }
  ],
  "acquisti": [
+  {
+   "id": "PPI-24-50",
+   "da": "Agenzia Viaggi Verbano Tours SA",
+   "a": "StreetWear SA",
+   "data": "24.11.2026",
+   "cosa": "1× Giubbotto invernale con cappuccio e pelliccia – blu, taglia L; 2× Hoodie Hellstar – nero, taglia M; 1× Hoodie Hellstar – nero, taglia L; 3× Beanie Syna World (blu, rosso, giallo) – blu",
+   "importo": 619.65,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "24.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-24-49",
+   "da": "Libreria Cartoleria Vanoni Sagl",
+   "a": "Sapori di casa",
+   "data": "24.11.2026",
+   "cosa": "24× Toffifee (Storck) caramello e cioccolato; 8× Biscotti vegani al cacao Natruly; 10× Cannoli siciliani; 8× Tiramisù; 20× Caramelle Trolli vermi alla frutta; 16× Ciambella con marshmallow",
+   "importo": 321.3,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "24.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-24-48",
+   "da": "Agenzia Viaggi Verbano Tours SA",
+   "a": "Royal Parfums SA",
+   "data": "24.11.2026",
+   "cosa": "2× Valentino Born in Roma, profumo donna; 2× Yves Saint Laurent Myself, profumo uomo; 2× Jean Paul Gaultier Le Male Le Parfum",
+   "importo": 352.38,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "24.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-24-47",
+   "da": "Libreria Cartoleria Vanoni Sagl",
+   "a": "SpaceOffice",
+   "data": "24.11.2026",
+   "cosa": "2× Scaffale bianco 150x100 cm (Kayar); 3× Set penne a sfera Bic blu; 6× Set matite; 4× Classificatori neri; 3× Chiavette USB",
+   "importo": 320.1,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "24.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-24-38",
+   "da": "Boutique Lavizzari Sagl",
+   "a": "SpaceOffice",
+   "data": "24.11.2026",
+   "cosa": "2× Scaffale bianco 150x100 cm (Kayar); 1× Cassettiera bianca (Kayar mobile bianco), 100x80x40 cm; 3× Classificatori neri; 1× Set penne a sfera Bic blu",
+   "importo": 279.9,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "24.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-24-37",
+   "da": "Elettro Brenni SA",
+   "a": "Royal Parfums SA",
+   "data": "24.11.2026",
+   "cosa": "4× Paco Rabanne Invictus, profumo uomo; 3× Boss Bottled, profumo uomo; 2× Giorgio Armani Acqua di Giò",
+   "importo": 588.93,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "24.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-24-36",
+   "da": "Studio Fiduciario Rezzonico & Partner Sagl",
+   "a": "Sapori di casa",
+   "data": "24.11.2026",
+   "cosa": "6× Vino bianco Chardonnay (Borgogna); 6× Vino rosso Barolo (Piemonte); 15× Panuozzo bresaola, mozzarella e rucola; 4× Cannoli siciliani; 24× Acqua naturale Evian 0.5 L; 10× Toffifee (Storck) caramello e cioccolato",
+   "importo": 276.65,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "24.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
+  {
+   "id": "PPI-23-35",
+   "da": "Ristorante Al Ponte Sagl",
+   "a": "StreetWear SA",
+   "data": "23.11.2026",
+   "cosa": "3× Hoodie Hellstar – nero, taglia M; 2× Hoodie Hellstar – nero, taglia L; 5× Beanie Syna World (blu, rosso, giallo) – blu",
+   "importo": 449.5,
+   "stato": "ordinato",
+   "nota": "Conferma d'ordine: no",
+   "fasi": [
+    {
+     "data": "23.11.2026",
+     "evento": "ordinato"
+    }
+   ]
+  },
   {
    "id": "PPI-23-34",
    "da": "Farmacia Morbio Sagl",
