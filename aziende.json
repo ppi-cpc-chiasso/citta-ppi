@@ -791,6 +791,60 @@
       },
       "esterna": true,
       "logo": "assets/loghi/streetwear.png"
+    },
+    {
+      "name": "Libreria Cartoleria Vanoni Sagl",
+      "type": "Libreria e cartoleria",
+      "icon": "📚",
+      "color": "#6b3d2a",
+      "sign": "Libreria Vanoni",
+      "owner": "Vanoni",
+      "ref": "Giorgio Vanoni",
+      "refF": false,
+      "emp": 4,
+      "addr": "Corso Bello 14",
+      "hours": "Lu–Ve 8:30–18:30 · Sa 8:30–17:00",
+      "desc": "Libri, articoli di cartoleria e materiale scolastico in un piccolo negozio nel centro di Mendrisio.",
+      "roles": [
+        "Titolare",
+        "Libraio/a",
+        "Commesso/a"
+      ],
+      "newUntil": "2026-12-01",
+      "ppi": {
+        "loc": "Mendrisio",
+        "beh": "Puntuale nei pagamenti, ordini piccoli",
+        "tag": "🟢",
+        "mail": "libreria.vanoni@outlook.com",
+        "user": "libreriavanoni"
+      }
+    },
+    {
+      "name": "Agenzia Viaggi Verbano Tours SA",
+      "type": "Agenzia viaggi",
+      "icon": "🧳",
+      "color": "#156a8a",
+      "sign": "Verbano Tours",
+      "ref": "Chiara Moretti",
+      "refF": true,
+      "emp": 7,
+      "addr": "Via della Posta 9",
+      "hours": "Lu–Ve 9:00–18:00 · Sa 9:00–12:00",
+      "desc": "Viaggi organizzati, vacanze sul Lago Maggiore, biglietti e soggiorni in Ticino e all'estero, dalla sede di Locarno.",
+      "roles": [
+        "Responsabile ufficio acquisti",
+        "Consulente di viaggio",
+        "Addetto/a prenotazioni",
+        "Impiegato/a"
+      ],
+      "newUntil": "2026-12-01",
+      "ppi": {
+        "loc": "Locarno",
+        "beh": "Paga sempre a fine termine, mai prima",
+        "tag": "🟢",
+        "mail": "verbano.tours@outlook.com",
+        "user": "verbanotours"
+      }
     }
   ]
 }
