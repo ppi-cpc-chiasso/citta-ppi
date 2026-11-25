@@ -810,7 +810,7 @@
         "Libraio/a",
         "Commesso/a"
       ],
-      "newUntil": "2026-12-01",
+      "newUntil": "2026-11-27",
       "ppi": {
         "loc": "Mendrisio",
         "beh": "Puntuale nei pagamenti, ordini piccoli",
@@ -837,7 +837,7 @@
         "Addetto/a prenotazioni",
         "Impiegato/a"
       ],
-      "newUntil": "2026-12-01",
+      "newUntil": "2026-11-27",
       "ppi": {
         "loc": "Locarno",
         "beh": "Paga sempre a fine termine, mai prima",
