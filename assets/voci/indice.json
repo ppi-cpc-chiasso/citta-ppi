@@ -1,0 +1,866 @@
+[
+  {
+    "luogo": "piazza",
+    "indice": 1,
+    "testo": "Buongiorno, come va?",
+    "voce": "donna_adulta",
+    "file": "piazza/01_donna_adulta.mp3",
+    "durata_s": 1.558
+  },
+  {
+    "luogo": "piazza",
+    "indice": 1,
+    "testo": "Buongiorno, come va?",
+    "voce": "uomo_adulto",
+    "file": "piazza/01_uomo_adulto.mp3",
+    "durata_s": 1.178
+  },
+  {
+    "luogo": "piazza",
+    "indice": 2,
+    "testo": "Bene, grazie, e lei?",
+    "voce": "ragazza",
+    "file": "piazza/02_ragazza.mp3",
+    "durata_s": 1.524
+  },
+  {
+    "luogo": "piazza",
+    "indice": 2,
+    "testo": "Bene, grazie, e lei?",
+    "voce": "ragazzo",
+    "file": "piazza/02_ragazzo.mp3",
+    "durata_s": 1.916
+  },
+  {
+    "luogo": "piazza",
+    "indice": 3,
+    "testo": "Ci vediamo domani al lago",
+    "voce": "bambino",
+    "file": "piazza/03_bambino.mp3",
+    "durata_s": 1.766
+  },
+  {
+    "luogo": "piazza",
+    "indice": 3,
+    "testo": "Ci vediamo domani al lago",
+    "voce": "anziana",
+    "file": "piazza/03_anziana.mp3",
+    "durata_s": 1.587
+  },
+  {
+    "luogo": "piazza",
+    "indice": 4,
+    "testo": "Che bel sole oggi!",
+    "voce": "anziano",
+    "file": "piazza/04_anziano.mp3",
+    "durata_s": 1.04
+  },
+  {
+    "luogo": "piazza",
+    "indice": 4,
+    "testo": "Che bel sole oggi!",
+    "voce": "donna_adulta",
+    "file": "piazza/04_donna_adulta.mp3",
+    "durata_s": 1.569
+  },
+  {
+    "luogo": "piazza",
+    "indice": 5,
+    "testo": "Hai visto che bella piazza?",
+    "voce": "uomo_adulto",
+    "file": "piazza/05_uomo_adulto.mp3",
+    "durata_s": 1.473
+  },
+  {
+    "luogo": "piazza",
+    "indice": 5,
+    "testo": "Hai visto che bella piazza?",
+    "voce": "ragazza",
+    "file": "piazza/05_ragazza.mp3",
+    "durata_s": 1.444
+  },
+  {
+    "luogo": "piazza",
+    "indice": 6,
+    "testo": "Facciamo due passi?",
+    "voce": "ragazzo",
+    "file": "piazza/06_ragazzo.mp3",
+    "durata_s": 1.54
+  },
+  {
+    "luogo": "piazza",
+    "indice": 6,
+    "testo": "Facciamo due passi?",
+    "voce": "bambino",
+    "file": "piazza/06_bambino.mp3",
+    "durata_s": 1.667
+  },
+  {
+    "luogo": "piazza",
+    "indice": 7,
+    "testo": "Ti aspetto vicino alla fontana",
+    "voce": "anziana",
+    "file": "piazza/07_anziana.mp3",
+    "durata_s": 1.717
+  },
+  {
+    "luogo": "piazza",
+    "indice": 7,
+    "testo": "Ti aspetto vicino alla fontana",
+    "voce": "anziano",
+    "file": "piazza/07_anziano.mp3",
+    "durata_s": 1.53
+  },
+  {
+    "luogo": "piazza",
+    "indice": 8,
+    "testo": "Oggi c'è un po' di vento",
+    "voce": "donna_adulta",
+    "file": "piazza/08_donna_adulta.mp3",
+    "durata_s": 1.476
+  },
+  {
+    "luogo": "piazza",
+    "indice": 8,
+    "testo": "Oggi c'è un po' di vento",
+    "voce": "uomo_adulto",
+    "file": "piazza/08_uomo_adulto.mp3",
+    "durata_s": 1.425
+  },
+  {
+    "luogo": "piazza",
+    "indice": 9,
+    "testo": "Come stanno i bambini?",
+    "voce": "ragazza",
+    "file": "piazza/09_ragazza.mp3",
+    "durata_s": 1.623
+  },
+  {
+    "luogo": "piazza",
+    "indice": 9,
+    "testo": "Come stanno i bambini?",
+    "voce": "ragazzo",
+    "file": "piazza/09_ragazzo.mp3",
+    "durata_s": 1.163
+  },
+  {
+    "luogo": "piazza",
+    "indice": 10,
+    "testo": "La scuola è proprio qui vicino",
+    "voce": "bambino",
+    "file": "piazza/10_bambino.mp3",
+    "durata_s": 1.902
+  },
+  {
+    "luogo": "piazza",
+    "indice": 10,
+    "testo": "La scuola è proprio qui vicino",
+    "voce": "anziana",
+    "file": "piazza/10_anziana.mp3",
+    "durata_s": 1.693
+  },
+  {
+    "luogo": "piazza",
+    "indice": 11,
+    "testo": "Passo a prenderti alle cinque",
+    "voce": "anziano",
+    "file": "piazza/11_anziano.mp3",
+    "durata_s": 1.518
+  },
+  {
+    "luogo": "piazza",
+    "indice": 11,
+    "testo": "Passo a prenderti alle cinque",
+    "voce": "donna_adulta",
+    "file": "piazza/11_donna_adulta.mp3",
+    "durata_s": 1.589
+  },
+  {
+    "luogo": "piazza",
+    "indice": 12,
+    "testo": "Buona giornata!",
+    "voce": "uomo_adulto",
+    "file": "piazza/12_uomo_adulto.mp3",
+    "durata_s": 0.933
+  },
+  {
+    "luogo": "piazza",
+    "indice": 12,
+    "testo": "Buona giornata!",
+    "voce": "ragazza",
+    "file": "piazza/12_ragazza.mp3",
+    "durata_s": 1.499
+  },
+  {
+    "luogo": "piazza",
+    "indice": 13,
+    "testo": "Arrivederci, a presto!",
+    "voce": "ragazzo",
+    "file": "piazza/13_ragazzo.mp3",
+    "durata_s": 1.377
+  },
+  {
+    "luogo": "piazza",
+    "indice": 13,
+    "testo": "Arrivederci, a presto!",
+    "voce": "bambino",
+    "file": "piazza/13_bambino.mp3",
+    "durata_s": 1.761
+  },
+  {
+    "luogo": "piazza",
+    "indice": 14,
+    "testo": "Il bus arriva tra poco",
+    "voce": "anziana",
+    "file": "piazza/14_anziana.mp3",
+    "durata_s": 1.378
+  },
+  {
+    "luogo": "piazza",
+    "indice": 14,
+    "testo": "Il bus arriva tra poco",
+    "voce": "anziano",
+    "file": "piazza/14_anziano.mp3",
+    "durata_s": 1.323
+  },
+  {
+    "luogo": "piazza",
+    "indice": 15,
+    "testo": "Andiamo al parco?",
+    "voce": "donna_adulta",
+    "file": "piazza/15_donna_adulta.mp3",
+    "durata_s": 1.442
+  },
+  {
+    "luogo": "piazza",
+    "indice": 15,
+    "testo": "Andiamo al parco?",
+    "voce": "uomo_adulto",
+    "file": "piazza/15_uomo_adulto.mp3",
+    "durata_s": 1.526
+  },
+  {
+    "luogo": "piazza",
+    "indice": 16,
+    "testo": "Mi piace passeggiare sul lago",
+    "voce": "ragazza",
+    "file": "piazza/16_ragazza.mp3",
+    "durata_s": 1.656
+  },
+  {
+    "luogo": "piazza",
+    "indice": 16,
+    "testo": "Mi piace passeggiare sul lago",
+    "voce": "ragazzo",
+    "file": "piazza/16_ragazzo.mp3",
+    "durata_s": 1.806
+  },
+  {
+    "luogo": "piazza",
+    "indice": 17,
+    "testo": "Hai già fatto la spesa?",
+    "voce": "bambino",
+    "file": "piazza/17_bambino.mp3",
+    "durata_s": 1.757
+  },
+  {
+    "luogo": "piazza",
+    "indice": 17,
+    "testo": "Hai già fatto la spesa?",
+    "voce": "anziana",
+    "file": "piazza/17_anziana.mp3",
+    "durata_s": 1.285
+  },
+  {
+    "luogo": "piazza",
+    "indice": 18,
+    "testo": "Domani ci troviamo qui",
+    "voce": "anziano",
+    "file": "piazza/18_anziano.mp3",
+    "durata_s": 1.178
+  },
+  {
+    "luogo": "piazza",
+    "indice": 18,
+    "testo": "Domani ci troviamo qui",
+    "voce": "donna_adulta",
+    "file": "piazza/18_donna_adulta.mp3",
+    "durata_s": 1.563
+  },
+  {
+    "luogo": "piazza",
+    "indice": 19,
+    "testo": "Che ore sono?",
+    "voce": "uomo_adulto",
+    "file": "piazza/19_uomo_adulto.mp3",
+    "durata_s": 0.856
+  },
+  {
+    "luogo": "piazza",
+    "indice": 19,
+    "testo": "Che ore sono?",
+    "voce": "ragazza",
+    "file": "piazza/19_ragazza.mp3",
+    "durata_s": 1.105
+  },
+  {
+    "luogo": "piazza",
+    "indice": 20,
+    "testo": "Sono quasi le dieci",
+    "voce": "ragazzo",
+    "file": "piazza/20_ragazzo.mp3",
+    "durata_s": 1.305
+  },
+  {
+    "luogo": "piazza",
+    "indice": 20,
+    "testo": "Sono quasi le dieci",
+    "voce": "bambino",
+    "file": "piazza/20_bambino.mp3",
+    "durata_s": 1.431
+  },
+  {
+    "luogo": "piazza",
+    "indice": 21,
+    "testo": "Oggi ho finito prima",
+    "voce": "anziana",
+    "file": "piazza/21_anziana.mp3",
+    "durata_s": 1.407
+  },
+  {
+    "luogo": "piazza",
+    "indice": 21,
+    "testo": "Oggi ho finito prima",
+    "voce": "anziano",
+    "file": "piazza/21_anziano.mp3",
+    "durata_s": 1.168
+  },
+  {
+    "luogo": "piazza",
+    "indice": 22,
+    "testo": "Ti telefono più tardi",
+    "voce": "donna_adulta",
+    "file": "piazza/22_donna_adulta.mp3",
+    "durata_s": 1.378
+  },
+  {
+    "luogo": "piazza",
+    "indice": 22,
+    "testo": "Ti telefono più tardi",
+    "voce": "uomo_adulto",
+    "file": "piazza/22_uomo_adulto.mp3",
+    "durata_s": 1.344
+  },
+  {
+    "luogo": "piazza",
+    "indice": 23,
+    "testo": "Guarda quel cagnolino!",
+    "voce": "ragazza",
+    "file": "piazza/23_ragazza.mp3",
+    "durata_s": 1.318
+  },
+  {
+    "luogo": "piazza",
+    "indice": 23,
+    "testo": "Guarda quel cagnolino!",
+    "voce": "ragazzo",
+    "file": "piazza/23_ragazzo.mp3",
+    "durata_s": 1.26
+  },
+  {
+    "luogo": "piazza",
+    "indice": 24,
+    "testo": "Aspetta, vengo anch'io",
+    "voce": "bambino",
+    "file": "piazza/24_bambino.mp3",
+    "durata_s": 1.752
+  },
+  {
+    "luogo": "piazza",
+    "indice": 24,
+    "testo": "Aspetta, vengo anch'io",
+    "voce": "anziana",
+    "file": "piazza/24_anziana.mp3",
+    "durata_s": 1.531
+  },
+  {
+    "luogo": "mercato",
+    "indice": 1,
+    "testo": "Mi dà un chilo di mele, per favore?",
+    "voce": "donna_adulta",
+    "file": "mercato/01_donna_adulta.mp3",
+    "durata_s": 1.737
+  },
+  {
+    "luogo": "mercato",
+    "indice": 1,
+    "testo": "Mi dà un chilo di mele, per favore?",
+    "voce": "ragazzo",
+    "file": "mercato/01_ragazzo.mp3",
+    "durata_s": 1.774
+  },
+  {
+    "luogo": "mercato",
+    "indice": 2,
+    "testo": "Quant'è?",
+    "voce": "ragazza",
+    "file": "mercato/02_ragazza.mp3",
+    "durata_s": 0.858
+  },
+  {
+    "luogo": "mercato",
+    "indice": 2,
+    "testo": "Quant'è?",
+    "voce": "anziano",
+    "file": "mercato/02_anziano.mp3",
+    "durata_s": 0.858
+  },
+  {
+    "luogo": "mercato",
+    "indice": 3,
+    "testo": "Sono tre franchi e cinquanta",
+    "voce": "uomo_adulto",
+    "file": "mercato/03_uomo_adulto.mp3",
+    "durata_s": 1.56
+  },
+  {
+    "luogo": "mercato",
+    "indice": 3,
+    "testo": "Sono tre franchi e cinquanta",
+    "voce": "donna_adulta",
+    "file": "mercato/03_donna_adulta.mp3",
+    "durata_s": 1.819
+  },
+  {
+    "luogo": "mercato",
+    "indice": 4,
+    "testo": "Queste pere sono dolci?",
+    "voce": "uomo_adulto",
+    "file": "mercato/04_uomo_adulto.mp3",
+    "durata_s": 1.388
+  },
+  {
+    "luogo": "mercato",
+    "indice": 4,
+    "testo": "Queste pere sono dolci?",
+    "voce": "anziana",
+    "file": "mercato/04_anziana.mp3",
+    "durata_s": 1.389
+  },
+  {
+    "luogo": "mercato",
+    "indice": 5,
+    "testo": "Vorrei due etti di formaggio",
+    "voce": "ragazzo",
+    "file": "mercato/05_ragazzo.mp3",
+    "durata_s": 1.674
+  },
+  {
+    "luogo": "mercato",
+    "indice": 5,
+    "testo": "Vorrei due etti di formaggio",
+    "voce": "donna_adulta",
+    "file": "mercato/05_donna_adulta.mp3",
+    "durata_s": 1.664
+  },
+  {
+    "luogo": "mercato",
+    "indice": 6,
+    "testo": "Posso assaggiarlo?",
+    "voce": "anziano",
+    "file": "mercato/06_anziano.mp3",
+    "durata_s": 1.002
+  },
+  {
+    "luogo": "mercato",
+    "indice": 6,
+    "testo": "Posso assaggiarlo?",
+    "voce": "ragazza",
+    "file": "mercato/06_ragazza.mp3",
+    "durata_s": 1.264
+  },
+  {
+    "luogo": "mercato",
+    "indice": 7,
+    "testo": "Un mazzo di fiori, grazie",
+    "voce": "donna_adulta",
+    "file": "mercato/07_donna_adulta.mp3",
+    "durata_s": 1.56
+  },
+  {
+    "luogo": "mercato",
+    "indice": 7,
+    "testo": "Un mazzo di fiori, grazie",
+    "voce": "ragazzo",
+    "file": "mercato/07_ragazzo.mp3",
+    "durata_s": 1.664
+  },
+  {
+    "luogo": "mercato",
+    "indice": 8,
+    "testo": "Preferisce i tulipani o le rose?",
+    "voce": "uomo_adulto",
+    "file": "mercato/08_uomo_adulto.mp3",
+    "durata_s": 2.029
+  },
+  {
+    "luogo": "mercato",
+    "indice": 8,
+    "testo": "Preferisce i tulipani o le rose?",
+    "voce": "donna_adulta",
+    "file": "mercato/08_donna_adulta.mp3",
+    "durata_s": 1.931
+  },
+  {
+    "luogo": "mercato",
+    "indice": 9,
+    "testo": "Va bene così, grazie",
+    "voce": "anziana",
+    "file": "mercato/09_anziana.mp3",
+    "durata_s": 1.444
+  },
+  {
+    "luogo": "mercato",
+    "indice": 9,
+    "testo": "Va bene così, grazie",
+    "voce": "uomo_adulto",
+    "file": "mercato/09_uomo_adulto.mp3",
+    "durata_s": 1.387
+  },
+  {
+    "luogo": "mercato",
+    "indice": 10,
+    "testo": "Le preparo un sacchetto?",
+    "voce": "uomo_adulto",
+    "file": "mercato/10_uomo_adulto.mp3",
+    "durata_s": 1.69
+  },
+  {
+    "luogo": "mercato",
+    "indice": 10,
+    "testo": "Le preparo un sacchetto?",
+    "voce": "donna_adulta",
+    "file": "mercato/10_donna_adulta.mp3",
+    "durata_s": 1.774
+  },
+  {
+    "luogo": "mercato",
+    "indice": 11,
+    "testo": "Pago con la carta",
+    "voce": "ragazzo",
+    "file": "mercato/11_ragazzo.mp3",
+    "durata_s": 1.458
+  },
+  {
+    "luogo": "mercato",
+    "indice": 11,
+    "testo": "Pago con la carta",
+    "voce": "donna_adulta",
+    "file": "mercato/11_donna_adulta.mp3",
+    "durata_s": 1.461
+  },
+  {
+    "luogo": "mercato",
+    "indice": 12,
+    "testo": "Ecco il resto, grazie mille",
+    "voce": "uomo_adulto",
+    "file": "mercato/12_uomo_adulto.mp3",
+    "durata_s": 1.708
+  },
+  {
+    "luogo": "mercato",
+    "indice": 12,
+    "testo": "Ecco il resto, grazie mille",
+    "voce": "donna_adulta",
+    "file": "mercato/12_donna_adulta.mp3",
+    "durata_s": 1.619
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 1,
+    "testo": "Un caffè, grazie",
+    "voce": "donna_adulta",
+    "file": "ristorante/01_donna_adulta.mp3",
+    "durata_s": 1.344
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 1,
+    "testo": "Un caffè, grazie",
+    "voce": "uomo_adulto",
+    "file": "ristorante/01_uomo_adulto.mp3",
+    "durata_s": 1.238
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 2,
+    "testo": "Possiamo vedere il menù?",
+    "voce": "uomo_adulto",
+    "file": "ristorante/02_uomo_adulto.mp3",
+    "durata_s": 1.134
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 2,
+    "testo": "Possiamo vedere il menù?",
+    "voce": "anziana",
+    "file": "ristorante/02_anziana.mp3",
+    "durata_s": 1.239
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 3,
+    "testo": "Un tavolo per due, per favore",
+    "voce": "anziana",
+    "file": "ristorante/03_anziana.mp3",
+    "durata_s": 1.755
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 3,
+    "testo": "Un tavolo per due, per favore",
+    "voce": "anziano",
+    "file": "ristorante/03_anziano.mp3",
+    "durata_s": 1.532
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 4,
+    "testo": "Per me una pasta al pomodoro",
+    "voce": "anziano",
+    "file": "ristorante/04_anziano.mp3",
+    "durata_s": 1.479
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 4,
+    "testo": "Per me una pasta al pomodoro",
+    "voce": "donna_adulta",
+    "file": "ristorante/04_donna_adulta.mp3",
+    "durata_s": 2.123
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 5,
+    "testo": "Desidera ancora dell'acqua?",
+    "voce": "uomo_adulto",
+    "file": "ristorante/05_uomo_adulto.mp3",
+    "durata_s": 1.538
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 5,
+    "testo": "Desidera ancora dell'acqua?",
+    "voce": "donna_adulta",
+    "file": "ristorante/05_donna_adulta.mp3",
+    "durata_s": 1.853
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 6,
+    "testo": "Il conto, per favore",
+    "voce": "uomo_adulto",
+    "file": "ristorante/06_uomo_adulto.mp3",
+    "durata_s": 1.451
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 6,
+    "testo": "Il conto, per favore",
+    "voce": "anziana",
+    "file": "ristorante/06_anziana.mp3",
+    "durata_s": 1.315
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 7,
+    "testo": "È tutto molto buono",
+    "voce": "anziana",
+    "file": "ristorante/07_anziana.mp3",
+    "durata_s": 1.423
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 7,
+    "testo": "È tutto molto buono",
+    "voce": "anziano",
+    "file": "ristorante/07_anziano.mp3",
+    "durata_s": 1.175
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 8,
+    "testo": "Ci sediamo sulla terrazza?",
+    "voce": "anziano",
+    "file": "ristorante/08_anziano.mp3",
+    "durata_s": 1.421
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 8,
+    "testo": "Ci sediamo sulla terrazza?",
+    "voce": "donna_adulta",
+    "file": "ristorante/08_donna_adulta.mp3",
+    "durata_s": 1.662
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 9,
+    "testo": "Due cappuccini, grazie",
+    "voce": "donna_adulta",
+    "file": "ristorante/09_donna_adulta.mp3",
+    "durata_s": 1.649
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 9,
+    "testo": "Due cappuccini, grazie",
+    "voce": "uomo_adulto",
+    "file": "ristorante/09_uomo_adulto.mp3",
+    "durata_s": 1.549
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 10,
+    "testo": "Buon appetito!",
+    "voce": "uomo_adulto",
+    "file": "ristorante/10_uomo_adulto.mp3",
+    "durata_s": 0.866
+  },
+  {
+    "luogo": "ristorante",
+    "indice": 10,
+    "testo": "Buon appetito!",
+    "voce": "donna_adulta",
+    "file": "ristorante/10_donna_adulta.mp3",
+    "durata_s": 1.428
+  },
+  {
+    "luogo": "negozio",
+    "indice": 1,
+    "testo": "Buongiorno, posso aiutarla?",
+    "voce": "donna_adulta",
+    "file": "negozio/01_donna_adulta.mp3",
+    "durata_s": 1.784
+  },
+  {
+    "luogo": "negozio",
+    "indice": 1,
+    "testo": "Buongiorno, posso aiutarla?",
+    "voce": "uomo_adulto",
+    "file": "negozio/01_uomo_adulto.mp3",
+    "durata_s": 1.572
+  },
+  {
+    "luogo": "negozio",
+    "indice": 2,
+    "testo": "Sto cercando un regalo",
+    "voce": "ragazzo",
+    "file": "negozio/02_ragazzo.mp3",
+    "durata_s": 1.416
+  },
+  {
+    "luogo": "negozio",
+    "indice": 2,
+    "testo": "Sto cercando un regalo",
+    "voce": "donna_adulta",
+    "file": "negozio/02_donna_adulta.mp3",
+    "durata_s": 1.637
+  },
+  {
+    "luogo": "negozio",
+    "indice": 3,
+    "testo": "Quanto costa questo?",
+    "voce": "anziana",
+    "file": "negozio/03_anziana.mp3",
+    "durata_s": 1.129
+  },
+  {
+    "luogo": "negozio",
+    "indice": 3,
+    "testo": "Quanto costa questo?",
+    "voce": "ragazzo",
+    "file": "negozio/03_ragazzo.mp3",
+    "durata_s": 1.364
+  },
+  {
+    "luogo": "negozio",
+    "indice": 4,
+    "testo": "Avete anche un'altra misura?",
+    "voce": "anziano",
+    "file": "negozio/04_anziano.mp3",
+    "durata_s": 1.374
+  },
+  {
+    "luogo": "negozio",
+    "indice": 4,
+    "testo": "Avete anche un'altra misura?",
+    "voce": "ragazza",
+    "file": "negozio/04_ragazza.mp3",
+    "durata_s": 1.529
+  },
+  {
+    "luogo": "negozio",
+    "indice": 5,
+    "testo": "Lo prendo, grazie",
+    "voce": "donna_adulta",
+    "file": "negozio/05_donna_adulta.mp3",
+    "durata_s": 1.428
+  },
+  {
+    "luogo": "negozio",
+    "indice": 5,
+    "testo": "Lo prendo, grazie",
+    "voce": "anziano",
+    "file": "negozio/05_anziano.mp3",
+    "durata_s": 1.084
+  },
+  {
+    "luogo": "negozio",
+    "indice": 6,
+    "testo": "Vuole lo scontrino?",
+    "voce": "donna_adulta",
+    "file": "negozio/06_donna_adulta.mp3",
+    "durata_s": 1.649
+  },
+  {
+    "luogo": "negozio",
+    "indice": 6,
+    "testo": "Vuole lo scontrino?",
+    "voce": "uomo_adulto",
+    "file": "negozio/06_uomo_adulto.mp3",
+    "durata_s": 1.23
+  },
+  {
+    "luogo": "negozio",
+    "indice": 7,
+    "testo": "Posso pagare con la carta?",
+    "voce": "ragazzo",
+    "file": "negozio/07_ragazzo.mp3",
+    "durata_s": 1.565
+  },
+  {
+    "luogo": "negozio",
+    "indice": 7,
+    "testo": "Posso pagare con la carta?",
+    "voce": "donna_adulta",
+    "file": "negozio/07_donna_adulta.mp3",
+    "durata_s": 1.676
+  },
+  {
+    "luogo": "negozio",
+    "indice": 8,
+    "testo": "Grazie e arrivederci",
+    "voce": "donna_adulta",
+    "file": "negozio/08_donna_adulta.mp3",
+    "durata_s": 1.483
+  },
+  {
+    "luogo": "negozio",
+    "indice": 8,
+    "testo": "Grazie e arrivederci",
+    "voce": "uomo_adulto",
+    "file": "negozio/08_uomo_adulto.mp3",
+    "durata_s": 1.498
+  }
+]
