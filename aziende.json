@@ -724,7 +724,8 @@
       "ppi": {
         "loc": "Chiasso",
         "beh": "Azienda del laboratorio PPI",
-        "tag": "🏫"
+        "tag": "🏫",
+        "mail": "royal.parfums2026@gmail.com"
       },
       "esterna": true,
       "logo": "assets/loghi/royal-parfums.png"
