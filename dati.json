@@ -1,5 +1,5 @@
 {
- "aggiornato": "25.11.2026",
+ "aggiornato": "26.11.2026",
  "aziende": [
   {
    "ord": 3,
@@ -317,6 +317,10 @@
     {
      "data": "24.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "rinviato all'indirizzo corretto"
     }
    ]
   },
@@ -375,12 +379,20 @@
    "data": "23.11.2026",
    "cosa": "4× Victoria's Secret Coconut Passion Shimmer; 4× Victoria's Secret Bare Vanilla; 3× Diesel Only The Brave",
    "importo": 302.27,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-056). Corretta, consegna sett. 49. ROY005 e ROY006 hanno la stessa descrizione «Victoria's Secret».",
    "fasi": [
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "rinviato all'indirizzo corretto"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-056 ricevuta da Royal Parfums"
     }
    ]
   },
@@ -445,6 +457,10 @@
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "rinviato all'indirizzo corretto"
     }
    ]
   },
@@ -525,6 +541,10 @@
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "rinviato all'indirizzo corretto"
     }
    ]
   },
@@ -541,6 +561,10 @@
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "rinviato all'indirizzo corretto"
     }
    ]
   },
@@ -631,12 +655,16 @@
    "data": "23.11.2026",
    "cosa": "40× Acqua naturale Evian 0.5 L; 40× Succo di frutta Michel 0.25 L; 30× Toffifee (Storck) caramello e cioccolato; 12× Biscotti vegani al cacao Natruly; 20× Caramelle Trolli vermi alla frutta",
    "importo": 321.7,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-SAP-2026-053). Corretta, consegna sett. 50. Errore di formula «#VALUE!» nell'intestazione.",
    "fasi": [
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-SAP-2026-053 ricevuta da Sapori di casa"
     }
    ]
   },
@@ -647,8 +675,8 @@
    "data": "17.11.2026",
    "cosa": "Giubbotto invernale con cappuccio e pelliccia (blu, taglia L) e 2 beanie Syna World blu",
    "importo": 389.85,
-   "stato": "confermato",
-   "nota": "Conferma d'ordine: sì, 19.11.2026 (V-047, Gabriel La Marca). Righe: STR-008 giacca con cappuccio blu L CHF 349.95; 2× STR-011 berretto blu CHF 39.90. Totale CHF 389.85, coincide con l'ordine. Nessuna scadenza né termine di consegna indicati.",
+   "stato": "fatturato",
+   "nota": "Conferma d'ordine: sì, 19.11.2026 (V-047, Gabriel La Marca). Righe: STR-008 giacca con cappuccio blu L CHF 349.95; 2× STR-011 berretto blu CHF 39.90. Totale CHF 389.85, coincide con l'ordine. Termine di consegna (settimana) vuoto. Fattura: V-047, 26.11.2026, ricevuta due volte. Totale fattura CHF 421.43 con IVA 8.1% aggiunta (ordine CHF 389.85 già IVA inclusa); mancano colore e taglia (blu, L); pagamento 30 giorni netto.",
    "fasi": [
     {
      "data": "17.11.2026",
@@ -656,7 +684,11 @@
     },
     {
      "data": "19.11.2026",
-     "evento": "conferma d'ordine V-047 ricevuta da StreetWear"
+     "evento": "conferma d'ordine V-047 ricevuta da StreetWear (consegna vuota)"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "fattura V-047 ricevuta da StreetWear (due volte)"
     }
    ]
   },
@@ -747,12 +779,16 @@
    "data": "17.11.2026",
    "cosa": "Sedie da ufficio Korel, orologio digitale, classificatori neri e cestini Cestus",
    "importo": 342.35,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-SPA-2026-066). Errori: data ordine 17.09 invece del 17.11; totale CHF 370.08 con IVA doppia (ordine CHF 342.35).",
    "fasi": [
     {
      "data": "17.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-SPA-2026-066 ricevuta da SpaceOffice (data ordine 17.09 e IVA doppia)"
     }
    ]
   },
@@ -843,8 +879,8 @@
    "data": "16.11.2026",
    "cosa": "Profumi Dolce & Gabbana Devotion Intense, Lancôme La Nuit Trésor, Paco Rabanne Invictus e Diesel Only The Brave",
    "importo": 356.62,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-51). Corretta, consegna sett. 49 (CHF 329.90 IVA esclusa, coincide con l'ordine). Risposta di Farmacia Morbio alle 9:11.",
    "fasi": [
     {
      "data": "16.11.2026",
@@ -853,6 +889,14 @@
     {
      "data": "23.11.2026",
      "evento": "rinviato all'indirizzo corretto"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-51 ricevuta da Royal Parfums"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "risposta di Farmacia Morbio alle 9:11"
     }
    ]
   },
