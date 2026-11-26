@@ -92,7 +92,7 @@
    "pag": 0
   },
   {
-   "ord": 2,
+   "ord": 1,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -104,7 +104,7 @@
    "pag": 0
   },
   {
-   "ord": 9,
+   "ord": 7,
    "proc": 2,
    "fatt": 0,
    "pag": 0
@@ -134,7 +134,7 @@
    "pag": 0
   },
   {
-   "ord": 2,
+   "ord": 1,
    "proc": 0,
    "fatt": 0,
    "pag": 0
@@ -265,22 +265,6 @@
    ]
   },
   {
-   "id": "PPI-24-48",
-   "da": "Agenzia Viaggi Verbano Tours SA",
-   "a": "Royal Parfums SA",
-   "data": "24.11.2026",
-   "cosa": "2× Valentino Born in Roma, profumo donna; 2× Yves Saint Laurent Myself, profumo uomo; 2× Jean Paul Gaultier Le Male Le Parfum",
-   "importo": 352.38,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
-   "fasi": [
-    {
-     "data": "24.11.2026",
-     "evento": "ordinato"
-    }
-   ]
-  },
-  {
    "id": "PPI-24-47",
    "da": "Libreria Cartoleria Vanoni Sagl",
    "a": "SpaceOffice",
@@ -316,21 +300,18 @@
    "id": "PPI-24-37",
    "da": "Elettro Brenni SA",
    "a": "Royal Parfums SA",
-   "data": "24.11.2026",
+   "data": "26.11.2026",
    "cosa": "4× Paco Rabanne Invictus, profumo uomo; 3× Boss Bottled, profumo uomo; 2× Giorgio Armani Acqua di Giò",
    "importo": 588.93,
    "stato": "ordinato",
    "nota": "Conferma d'ordine: no",
    "fasi": [
     {
-     "data": "24.11.2026",
-     "evento": "ordinato"
-    },
-    {
      "data": "26.11.2026",
-     "evento": "rinviato all'indirizzo corretto"
+     "evento": "ordinato"
     }
-   ]
+   ],
+   "invio": "2026-11-26"
   },
   {
    "id": "PPI-24-36",
@@ -388,25 +369,22 @@
    "id": "PPI-23-33",
    "da": "Agenzia Viaggi Gottardo SA",
    "a": "Royal Parfums SA",
-   "data": "23.11.2026",
+   "data": "26.11.2026",
    "cosa": "4× Victoria's Secret Coconut Passion Shimmer; 4× Victoria's Secret Bare Vanilla; 3× Diesel Only The Brave",
    "importo": 302.27,
    "stato": "confermato",
    "nota": "Conferma d'ordine: sì, 26.11.2026 (V-056). Corretta, consegna sett. 49. ROY005 e ROY006 hanno la stessa descrizione «Victoria's Secret».",
    "fasi": [
     {
-     "data": "23.11.2026",
-     "evento": "ordinato"
-    },
-    {
      "data": "26.11.2026",
-     "evento": "rinviato all'indirizzo corretto"
+     "evento": "ordinato"
     },
     {
      "data": "26.11.2026",
      "evento": "conferma d'ordine V-056 ricevuta da Royal Parfums"
     }
-   ]
+   ],
+   "invio": "2026-11-26"
   },
   {
    "id": "PPI-23-32",
@@ -460,21 +438,18 @@
    "id": "PPI-17-09",
    "da": "Boutique Lavizzari Sagl",
    "a": "Royal Parfums SA",
-   "data": "23.11.2026",
+   "data": "26.11.2026",
    "cosa": "2× Valentino Born in Roma, profumo donna; 2× Yves Saint Laurent Opio Nero, profumo donna; 1× Boss Bottled, profumo uomo; 1× Jean Paul Gaultier Le Male Le Parfum",
    "importo": 349.14,
    "stato": "ordinato",
    "nota": "Conferma d'ordine: no",
    "fasi": [
     {
-     "data": "23.11.2026",
-     "evento": "ordinato"
-    },
-    {
      "data": "26.11.2026",
-     "evento": "rinviato all'indirizzo corretto"
+     "evento": "ordinato"
     }
-   ]
+   ],
+   "invio": "2026-11-26"
   },
   {
    "id": "PPI-18-21",
@@ -525,60 +500,38 @@
    ]
   },
   {
-   "id": "PPI-18-29",
-   "da": "Centro Estetico Bellavista Sagl",
-   "a": "Royal Parfums SA",
-   "data": "23.11.2026",
-   "cosa": "2× Lancôme La Nuit Trésor, profumo donna; 2× Valentino Born in Roma, profumo donna; 1× Yves Saint Laurent Opio Nero, profumo donna; 3× Victoria's Secret Coconut Passion Shimmer",
-   "importo": 345.88,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
-   "fasi": [
-    {
-     "data": "23.11.2026",
-     "evento": "ordinato"
-    }
-   ]
-  },
-  {
    "id": "PPI-18-11",
    "da": "Tipografia Ceresio SA",
    "a": "Royal Parfums SA",
-   "data": "23.11.2026",
+   "data": "26.11.2026",
    "cosa": "4× Paco Rabanne Invictus, profumo uomo; 4× Dolce & Gabbana Devotion Intense, profumo donna",
    "importo": 562.12,
    "stato": "ordinato",
    "nota": "Conferma d'ordine: no",
    "fasi": [
     {
-     "data": "23.11.2026",
-     "evento": "ordinato"
-    },
-    {
      "data": "26.11.2026",
-     "evento": "rinviato all'indirizzo corretto"
+     "evento": "ordinato"
     }
-   ]
+   ],
+   "invio": "2026-11-26"
   },
   {
    "id": "PPI-18-10",
    "da": "Studio Fiduciario Rezzonico & Partner Sagl",
    "a": "Royal Parfums SA",
-   "data": "23.11.2026",
+   "data": "26.11.2026",
    "cosa": "3× Giorgio Armani Acqua di Giò; 3× Yves Saint Laurent Myself, profumo uomo",
    "importo": 323.94,
    "stato": "ordinato",
    "nota": "Conferma d'ordine: no",
    "fasi": [
     {
-     "data": "23.11.2026",
-     "evento": "ordinato"
-    },
-    {
      "data": "26.11.2026",
-     "evento": "rinviato all'indirizzo corretto"
+     "evento": "ordinato"
     }
-   ]
+   ],
+   "invio": "2026-11-26"
   },
   {
    "id": "PPI-18-30",
