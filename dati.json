@@ -165,12 +165,16 @@
    "data": "25.11.2026",
    "cosa": "48× Acqua naturale Evian 0.5 L; 24× Acqua frizzante San Benedetto 0.5 L; 10× Poke pronto; 12× Latte di cocco bio Matt; 4× Biscotti vegani al cacao Natruly",
    "importo": 280.7,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-SAP-2026-054). Corretta, consegna sett. 50 (righe, prezzi e quantità coincidono con l'ordine del 25.11).",
    "fasi": [
     {
      "data": "25.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-SAP-2026-054 ricevuta da Sapori di casa"
     }
    ],
    "invio": "2026-11-25 13:20"
@@ -215,12 +219,16 @@
    "data": "25.11.2026",
    "cosa": "48× Acqua naturale Evian 0.5 L; 10× Patatine Takis Blue Heat 250 g; 10× Patatine al formaggio Fonzies 250 g; 12× Panuozzo bresaola, mozzarella e rucola; 4× Coca-Cola Original; 24× Succo di frutta Michel 0.25 L",
    "importo": 261.1,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-SAP-2026-055). Corretta, consegna sett. 50 (righe, prezzi e quantità coincidono con l'ordine del 25.11).",
    "fasi": [
     {
      "data": "25.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-SAP-2026-055 ricevuta da Sapori di casa"
     }
    ]
   },
@@ -363,12 +371,16 @@
    "data": "23.11.2026",
    "cosa": "1× Giubbotto invernale con cappuccio e pelliccia – grigio, taglia M; 1× Hoodie Hellstar – blu, taglia L; 1× Beanie Syna World (blu, rosso, giallo) – rosso",
    "importo": 439.85,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-053). Errore: termine di consegna (settimana) mancante. Righe, colori, taglie, prezzi e quantità corretti.",
    "fasi": [
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-053 ricevuta da StreetWear (consegna mancante)"
     }
    ]
   },
@@ -575,12 +587,16 @@
    "data": "23.11.2026",
    "cosa": "2× Orologio fitness smart resistente all'acqua; 2× Proteine Sponser vaniglia; 1× Creatina Biotech",
    "importo": 361.15,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-SPO-2026-057). Errori: data conferma «26.22.2026» (non valida); consegna settimana 40 già passata. Righe, prezzi, quantità e totale CHF 361.15 corretti, ordine del 23.11 giusto.",
    "fasi": [
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-SPO-2026-057 ricevuta da Sportime (data 26.22.2026 non valida, consegna sett. 40 già passata)"
     }
    ]
   },
@@ -591,12 +607,16 @@
    "data": "23.11.2026",
    "cosa": "1× Mazza/bastone hockey (Reebok 6k); 1× Casco hockey CCM nero; 1× Guantoni hockey Bauer; 20× Disco da hockey",
    "importo": 647.8,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-SPO-2026-058). Errore: termine di consegna settimana 40 già passata. Righe, prezzi, quantità e totale CHF 647.80 corretti, ordine del 23.11 giusto.",
    "fasi": [
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-SPO-2026-058 ricevuta da Sportime (consegna sett. 40 già passata)"
     }
    ]
   },
@@ -607,12 +627,16 @@
    "data": "23.11.2026",
    "cosa": "2× Hoodie Hellstar – nero, taglia M; 2× Hoodie Hellstar – nero, taglia L; 2× Beanie Syna World (blu, rosso, giallo) – giallo",
    "importo": 319.7,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-051). Errori: hoodie Hellstar blu (M e L) invece di nero come ordinato; berretti Syna World senza colore (ordinati gialli); termine di consegna settimana 42 già passata. Prezzi e quantità corretti.",
    "fasi": [
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-051 ricevuta da StreetWear (hoodie blu invece di nero, berretti senza colore, consegna sett. 42 già passata)"
     }
    ]
   },
@@ -639,12 +663,16 @@
    "data": "23.11.2026",
    "cosa": "2× Hoodie Hellstar – blu, taglia M; 1× Hoodie Hellstar – blu, taglia L; 5× Beanie Syna World (blu, rosso, giallo) – giallo",
    "importo": 309.6,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-050). Errori: berretti Syna World senza colore (ordinati gialli); termine di consegna settimana 42 già passata. Righe hoodie blu M×2 e L×1, prezzi e quantità corretti.",
    "fasi": [
     {
      "data": "23.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-050 ricevuta da StreetWear (berretti senza colore e consegna sett. 42 già passata)"
     }
    ]
   },
@@ -699,12 +727,16 @@
    "data": "17.11.2026",
    "cosa": "Proteine Sponser vaniglia, creatina Biotech e set elastici fitness Snowpea",
    "importo": 340.2,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-SPO-2026-052). Errori: «vostro ordine del» 16/11/2026 invece del 17.11.2026; data conferma 19/11/2026 ma email arrivata il 26.11; consegna settimana 47 già passata. Righe, prezzi, quantità e totale CHF 340.20 corretti.",
    "fasi": [
     {
      "data": "17.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-SPO-2026-052 ricevuta da Sportime (ordine del 16/11 invece del 17.11, conferma datata 19/11, consegna sett. 47 già passata)"
     }
    ]
   },
@@ -715,12 +747,16 @@
    "data": "17.11.2026",
    "cosa": "Palloni Champions League Adidas, palle basket Wilson e set elastici fitness Snowpea",
    "importo": 308.1,
-   "stato": "ordinato",
-   "nota": "Conferma d'ordine: no",
+   "stato": "confermato",
+   "nota": "Conferma d'ordine: sì, 26.11.2026 (V-SPO-2026-051). Errori: «vostro ordine del» 16/11/2026 invece del 17.11.2026; data conferma 19/11/2026 ma email arrivata il 26.11; consegna settimana 47 già passata. Righe, prezzi, quantità e totale CHF 308.10 corretti.",
    "fasi": [
     {
      "data": "17.11.2026",
      "evento": "ordinato"
+    },
+    {
+     "data": "26.11.2026",
+     "evento": "conferma d'ordine V-SPO-2026-051 ricevuta da Sportime (ordine del 16/11 invece del 17.11, conferma datata 19/11, consegna sett. 47 già passata)"
     }
    ]
   },
