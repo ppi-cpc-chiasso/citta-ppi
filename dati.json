@@ -15,7 +15,7 @@
     },
     {
       "ord": 4,
-      "proc": 2,
+      "proc": 3,
       "fatt": 0,
       "pag": 0
     },
@@ -33,7 +33,7 @@
     },
     {
       "ord": 5,
-      "proc": 2,
+      "proc": 3,
       "fatt": 0,
       "pag": 0
     },
@@ -99,7 +99,7 @@
     },
     {
       "ord": 14,
-      "proc": 3,
+      "proc": 4,
       "fatt": 0,
       "pag": 0
     },
@@ -111,7 +111,7 @@
     },
     {
       "ord": 15,
-      "proc": 6,
+      "proc": 7,
       "fatt": 0,
       "pag": 0
     },
@@ -1168,12 +1168,16 @@
       "data": "17.11.2026",
       "cosa": "Acqua Evian e San Benedetto, succhi Michel, Toffifee e vino Chardonnay",
       "importo": 347.1,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SAP-2026-60). Errori: descrizioni tagliate nella colonna (SAP-002 «SAN BENEDETTO» con la O finale tagliata; SAP-004 visibile «hel Max Havelaar SUCCO DI FRU» invece di «Succo di frutta Michel 0.25 L»; SAP-011 «TOFFIFEE» con l'ultima E tagliata); refuso «nociola» nella descrizione dei Toffifee; mancano i formati 0.5 L / 0.25 L e «Borgogna». Righe, prezzi, quantità e totale CHF 347.10 coincidono con l'ordine del 17.11. Consegna sett. 50 corretta.",
       "fasi": [
         {
           "data": "17.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SAP-2026-60 ricevuta da Sapori di casa (descrizioni tagliate, refuso nociola)"
         }
       ]
     },
@@ -1372,12 +1376,16 @@
       "data": "16.11.2026",
       "cosa": "Classificatori neri, penne Bic, chiavette USB, scaffale Kayar e set matite",
       "importo": 315.6,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SPA-2026-071). Errori: totale CHF 341.16 con IVA doppia (ordine CHF 315.60 già IVA inclusa); SPA-007 scaffale Kayar senza misure 150x100 cm; refuso «nostgra» nel ringraziamento. Righe, codici, quantità e prezzi unitari coincidono con l'ordine del 16.11. Consegna sett. 50 corretta.",
       "fasi": [
         {
           "data": "16.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SPA-2026-071 ricevuta da SpaceOffice (IVA doppia, scaffale senza misure, refuso nostgra)"
         }
       ]
     }
