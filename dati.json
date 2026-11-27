@@ -1,5 +1,5 @@
 {
-  "aggiornato": "26.11.2026",
+  "aggiornato": "27.11.2026",
   "aziende": [
     {
       "ord": 3,
@@ -8,7 +8,7 @@
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 2,
       "fatt": 0,
       "pag": 0
@@ -20,7 +20,7 @@
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 1,
       "fatt": 0,
       "pag": 0
@@ -32,31 +32,31 @@
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 2,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 2,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 2,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 0,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 1,
       "fatt": 0,
       "pag": 0
@@ -68,19 +68,19 @@
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 3,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 2,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 3,
       "fatt": 1,
       "pag": 0
@@ -98,31 +98,31 @@
       "pag": 0
     },
     {
-      "ord": 10,
+      "ord": 12,
       "proc": 3,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 7,
+      "ord": 9,
+      "proc": 6,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 13,
       "proc": 6,
       "fatt": 0,
       "pag": 0
     },
     {
       "ord": 11,
-      "proc": 6,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 9,
       "proc": 8,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 10,
+      "ord": 12,
       "proc": 7,
       "fatt": 1,
       "pag": 0
@@ -141,6 +141,176 @@
     }
   ],
   "acquisti": [
+    {
+      "id": "PPI-27-60",
+      "da": "Elettro Brenni SA",
+      "a": "StreetWear SA",
+      "data": "27.11.2026",
+      "cosa": "1× Giubbotto invernale con cappuccio e pelliccia (S-2XL; nero, bianco, blu, grigio, rosso) – nero, taglia XL; 2× Hoodie Hellstar (S-XXXL; nero, rosa, rosso, blu) – nero, taglia L; 4× Beanie Syna World (blu, rosso, giallo) – giallo",
+      "importo": 569.65,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 09:21"
+    },
+    {
+      "id": "PPI-27-59",
+      "da": "Panetteria Fontana Sagl",
+      "a": "Sportime",
+      "data": "27.11.2026",
+      "cosa": "4× Pallone Champions League Adidas (misura 4 e 5); 5× Parastinchi Nike Mercurial (taglia unica)",
+      "importo": 335.7,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 09:11"
+    },
+    {
+      "id": "PPI-27-58",
+      "da": "Vivaio Morcote Sagl",
+      "a": "Royal Parfums SA",
+      "data": "27.11.2026",
+      "cosa": "6× Victoria's Secret Coconut Passion Shimmer; 6× Victoria's Secret Bare Vanilla; 2× Valentino Born in Roma, profumo donna",
+      "importo": 378.22,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 09:03"
+    },
+    {
+      "id": "PPI-27-57",
+      "da": "Boutique Lavizzari Sagl",
+      "a": "Sapori di casa",
+      "data": "27.11.2026",
+      "cosa": "12× Vino bianco Chardonnay (Borgogna); 12× Tiramisù; 6× Cannoli siciliani; 24× Acqua frizzante San Benedetto 0.5 L; 12× Toffifee (Storck) caramello e cioccolato",
+      "importo": 314.1,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 08:55"
+    },
+    {
+      "id": "PPI-27-56",
+      "da": "Trasporti Leventina SA",
+      "a": "SpaceOffice",
+      "data": "27.11.2026",
+      "cosa": "1× Armadio da ufficio in metallo 180x100 cm; 5× Classificatori neri; 1× Orologio digitale da scrivania, nero; 1× Set penne a sfera Bic blu",
+      "importo": 392.95,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 08:46"
+    },
+    {
+      "id": "PPI-27-55",
+      "da": "Tipografia Ceresio SA",
+      "a": "StreetWear SA",
+      "data": "27.11.2026",
+      "cosa": "3× Hoodie Hellstar (S-XXXL; nero, rosa, rosso, blu) – nero, taglia M; 3× Hoodie Hellstar (S-XXXL; nero, rosa, rosso, blu) – nero, taglia L; 6× Beanie Syna World (blu, rosso, giallo) – blu",
+      "importo": 539.4,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 08:38"
+    },
+    {
+      "id": "PPI-27-54",
+      "da": "Falegnameria Cattaneo SA",
+      "a": "Sportime",
+      "data": "27.11.2026",
+      "cosa": "3× Pallone Champions League Adidas (misura 4 e 5); 8× Parastinchi Nike Mercurial (taglia unica)",
+      "importo": 389.9,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 08:29"
+    },
+    {
+      "id": "PPI-27-53",
+      "da": "Ristorante Al Ponte Sagl",
+      "a": "Royal Parfums SA",
+      "data": "27.11.2026",
+      "cosa": "3× Lancôme La Nuit Trésor, profumo donna; 3× Giorgio Armani Acqua di Giò; 4× Victoria's Secret Bare Vanilla",
+      "importo": 410.41,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 08:23"
+    },
+    {
+      "id": "PPI-27-52",
+      "da": "Agenzia Viaggi Gottardo SA",
+      "a": "Sapori di casa",
+      "data": "27.11.2026",
+      "cosa": "6× Vino bianco Chardonnay (Borgogna); 20× Panuozzo bresaola, mozzarella e rucola; 6× Cannoli siciliani; 24× Acqua naturale Evian 0.5 L; 24× Acqua frizzante San Benedetto 0.5 L; 10× Tiramisù",
+      "importo": 349.5,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 08:20"
+    },
+    {
+      "id": "PPI-27-51",
+      "da": "Hotel Riva Verbano Sagl",
+      "a": "SpaceOffice",
+      "data": "27.11.2026",
+      "cosa": "1× Tavolo da ufficio grigio scuro 170x70 cm; 2× Sedia da ufficio ergonomica nera (Korel); 1× Orologio digitale da scrivania, nero; 3× Cestino (Cestus) 6 L; 2× Classificatori neri",
+      "importo": 530.55,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 08:18"
+    },
     {
       "id": "PPI-25-46",
       "da": "Vivaio Morcote Sagl",
