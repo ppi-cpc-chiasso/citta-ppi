@@ -3,13 +3,13 @@
   "aziende": [
     {
       "ord": 4,
-      "proc": 2,
+      "proc": 3,
       "fatt": 0,
       "pag": 0
     },
     {
       "ord": 5,
-      "proc": 2,
+      "proc": 3,
       "fatt": 0,
       "pag": 0
     },
@@ -21,18 +21,6 @@
     },
     {
       "ord": 4,
-      "proc": 1,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 4,
-      "proc": 1,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 5,
       "proc": 3,
       "fatt": 0,
       "pag": 0
@@ -45,13 +33,19 @@
     },
     {
       "ord": 5,
-      "proc": 2,
+      "proc": 3,
       "fatt": 0,
       "pag": 0
     },
     {
       "ord": 4,
-      "proc": 0,
+      "proc": 2,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 5,
+      "proc": 3,
       "fatt": 0,
       "pag": 0
     },
@@ -63,19 +57,25 @@
     },
     {
       "ord": 4,
-      "proc": 3,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 4,
-      "proc": 3,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 4,
       "proc": 2,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 4,
+      "proc": 3,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 4,
+      "proc": 3,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 4,
+      "proc": 3,
       "fatt": 0,
       "pag": 0
     },
@@ -99,7 +99,7 @@
     },
     {
       "ord": 14,
-      "proc": 4,
+      "proc": 9,
       "fatt": 0,
       "pag": 0
     },
@@ -111,7 +111,7 @@
     },
     {
       "ord": 15,
-      "proc": 7,
+      "proc": 9,
       "fatt": 0,
       "pag": 0
     },
@@ -123,7 +123,7 @@
     },
     {
       "ord": 14,
-      "proc": 7,
+      "proc": 9,
       "fatt": 1,
       "pag": 0
     },
@@ -488,12 +488,16 @@
       "data": "25.11.2026",
       "cosa": "1× Tavolo da ufficio grigio scuro 170x70 cm; 2× Sedia da ufficio ergonomica nera (Korel); 2× Scaffale bianco 150x100 cm (Kayar); 1× Orologio digitale da scrivania, nero",
       "importo": 572.1,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SPA-2026-074). Errori: SPA-006 descritto «Tavolo black» invece di «Tavolo da ufficio grigio scuro 170x70 cm»; descrizioni abbreviate (sedia Korel senza «ergonomica nera»; scaffale Kayar senza 150x100 cm; orologio digitale senza «da scrivania, nero»); refuso «nostgra» nel ringraziamento. Quantità, prezzi e totale CHF 572.10 coincidono con l'ordine del 25.11. Consegna sett. 50 corretta.",
       "fasi": [
         {
           "data": "25.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SPA-2026-074 ricevuta da SpaceOffice (tavolo black, descrizioni abbreviate, refuso nostgra)"
         }
       ],
       "invio": "2026-11-25 15:05"
@@ -543,12 +547,16 @@
       "data": "25.11.2026",
       "cosa": "1× Stampante HP; 4× Classificatori neri; 4× Set matite; 1× Chiavette USB",
       "importo": 330.0,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SPA-2026-073). Errori: prezzi unitari e totali di riga tutti errati (SPA-010 stampante CHF 213.00 invece di 230.50; SPA-013 classificatori CHF 15.00 invece di 16.30, riga 60.00 invece di 65.20; SPA-015 set matite CHF 12.30 invece di 5.50, riga 49.20 invece di 22.00; SPA-012 chiavette USB CHF 5.00 invece di 12.30); totale CHF 353.70 con IVA doppia sul subtotale errato CHF 327.20 (ordine CHF 330.00 già IVA inclusa); refuso «nostgra» nel ringraziamento. Codici e quantità coincidono con l'ordine del 25.11. Consegna sett. 50 corretta. In email: nessun acconto da versare.",
       "fasi": [
         {
           "data": "25.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SPA-2026-073 ricevuta da SpaceOffice (prezzi errati, IVA doppia, refuso nostgra)"
         }
       ]
     },
@@ -914,12 +922,16 @@
       "data": "23.11.2026",
       "cosa": "1× Tavolo da ufficio grigio scuro 170x70 cm; 1× Sedia da ufficio ergonomica nera (Korel); 1× Cestino (Cestus) 6 L; 1× Armadio da ufficio in metallo 180x100 cm",
       "importo": 593.9,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SPA-2026-072). Errori: destinatario «Elettro Benni SA» invece di Elettro Brenni SA; totale CHF 642.01 con IVA doppia (ordine CHF 593.90 già IVA inclusa); descrizioni abbreviate (mancano misure e dettagli: tavolo grigio scuro 170x70 cm, sedia ergonomica nera Korel, cestino Cestus 6 L, armadio in metallo 180x100 cm); refuso «nostgra» nel ringraziamento. Quantità e prezzi unitari coincidono con l'ordine del 23.11. Consegna sett. 50 corretta. Indirizzo «Via Corso Ceresio 9» (nell'ordine «Corso Ceresio 9»).",
       "fasi": [
         {
           "data": "23.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SPA-2026-072 ricevuta da SpaceOffice (destinatario Benni, IVA doppia, refuso nostgra)"
         }
       ]
     },
@@ -1188,12 +1200,16 @@
       "data": "17.11.2026",
       "cosa": "Stampante HP, classificatori neri, penne Bic e chiavette USB",
       "importo": 318.7,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SPA-2026-076). Corretta, consegna sett. 50 (righe, codici, quantità, prezzi e totale CHF 318.70 coincidono con l'ordine del 17.11). Refuso «nostgra» nel ringraziamento. In email: la stampante non si consegna separatamente, tutta la merce insieme.",
       "fasi": [
         {
           "data": "17.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SPA-2026-076 ricevuta da SpaceOffice (refuso nostgra; stampante non a parte)"
         }
       ]
     },
@@ -1224,12 +1240,16 @@
       "data": "16.11.2026",
       "cosa": "Hoodie Hellstar rosse e beanie Syna World rossi",
       "importo": 339.65,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-058). Errori: codice STR-0011 invece di STR-011; consegna settimana 42 già passata (deve essere sett. 50). Righe hoodie Hellstar rosso M×2 e L×2, beanie Syna World rosso ×3, prezzi e quantità coincidono con l'ordine del 16.11 (CHF 339.65).",
       "fasi": [
         {
           "data": "16.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-058 ricevuta da StreetWear (STR-0011, consegna sett. 42)"
         }
       ]
     },
@@ -1240,12 +1260,16 @@
       "data": "16.11.2026",
       "cosa": "Hoodie 4TUNE viola, polo Chief Keef bianche, cinture Diamant e beanie Syna World",
       "importo": 333.6,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-057). Errori: codice STR-0011 invece di STR-011; beanie Syna World indicato «bianca 105 cm» invece di blu (il 105 cm è della cintura); cintura Diamant belt «blu» invece di bianca 105 cm; hoodie senza «4TUNE»; consegna settimana 42 già passata (deve essere sett. 50). Quantità e prezzi coincidono con l'ordine del 16.11 (CHF 333.60). Nel nome del file: «Lavizzeri» invece di Lavizzari (nel PDF il destinatario è corretto).",
       "fasi": [
         {
           "data": "16.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-057 ricevuta da StreetWear (colori beanie/cintura scambiati, STR-0011, consegna sett. 42)"
         }
       ]
     },
@@ -1276,12 +1300,16 @@
       "data": "16.11.2026",
       "cosa": "Pacchetto patatine per distributori, Coca-Cola e acqua frizzante San Benedetto",
       "importo": 339.7,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SAP-2026-061). Corretta, consegna sett. 50 (righe, prezzi, quantità e totale CHF 339.70 coincidono con l'ordine del 16.11). Descrizioni abbreviate: SAP-013 «Pacchetto snack» invece di «Pacchetto patatine per distributori (Doritos, Pringles...)»; Coca-Cola senza «confezione 6 x 1.5 L»; San Benedetto senza «0.5 L».",
       "fasi": [
         {
           "data": "16.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SAP-2026-061 ricevuta da Sapori di casa"
         }
       ]
     },
@@ -1292,12 +1320,16 @@
       "data": "16.11.2026",
       "cosa": "Acqua Evian e San Benedetto, Coca-Cola, tiramisù e cannoli siciliani",
       "importo": 336.3,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SAP-2026-062). Corretta, consegna sett. 50 (righe, prezzi, quantità e totale CHF 336.30 coincidono con l'ordine del 16.11). Descrizioni da listino (Evian e San Benedetto senza 0.5 L; Coca-Cola senza «confezione 6 x 1.5 L»).",
       "fasi": [
         {
           "data": "16.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SAP-2026-062 ricevuta da Sapori di casa"
         }
       ]
     },
@@ -1360,12 +1392,16 @@
       "data": "16.11.2026",
       "cosa": "Proiettore PicoPix, classificatori neri e chiavette USB",
       "importo": 359.4,
-      "stato": "ordinato",
-      "nota": "Conferma d'ordine: no",
+      "stato": "confermato",
+      "nota": "Conferma d'ordine: sì, 27.11.2026 (V-SPA-2026-075). Righe, quantità, prezzi e totale CHF 359.40 coincidono con l'ordine del 16.11 (anche l'email cita CHF 359.40 IVA incl.). Descrizioni abbreviate: «Proiettore» invece di «Proiettore PicoPix»; «Classificatore» e «Chiavetta USB» al singolare, senza «pacco da 3/10 pz». Refuso «nostgra» nel ringraziamento. Consegna sett. 50 corretta.",
       "fasi": [
         {
           "data": "16.11.2026",
           "evento": "ordinato"
+        },
+        {
+          "data": "27.11.2026",
+          "evento": "conferma d'ordine V-SPA-2026-075 ricevuta da SpaceOffice (descrizioni abbreviate, refuso nostgra)"
         }
       ]
     },
