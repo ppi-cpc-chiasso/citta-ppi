@@ -2,19 +2,19 @@
   "aggiornato": "27.11.2026",
   "aziende": [
     {
-      "ord": 3,
-      "proc": 2,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
       "ord": 4,
       "proc": 2,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 5,
+      "proc": 2,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 4,
       "proc": 2,
       "fatt": 0,
       "pag": 0
@@ -26,13 +26,13 @@
       "pag": 0
     },
     {
-      "ord": 2,
+      "ord": 4,
       "proc": 1,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 4,
+      "ord": 5,
       "proc": 2,
       "fatt": 0,
       "pag": 0
@@ -44,7 +44,7 @@
       "pag": 0
     },
     {
-      "ord": 4,
+      "ord": 5,
       "proc": 2,
       "fatt": 0,
       "pag": 0
@@ -62,7 +62,7 @@
       "pag": 0
     },
     {
-      "ord": 3,
+      "ord": 4,
       "proc": 3,
       "fatt": 0,
       "pag": 0
@@ -86,7 +86,7 @@
       "pag": 0
     },
     {
-      "ord": 2,
+      "ord": 4,
       "proc": 2,
       "fatt": 0,
       "pag": 0
@@ -98,31 +98,31 @@
       "pag": 0
     },
     {
-      "ord": 12,
+      "ord": 14,
       "proc": 3,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 9,
+      "ord": 11,
+      "proc": 6,
+      "fatt": 0,
+      "pag": 0
+    },
+    {
+      "ord": 15,
       "proc": 6,
       "fatt": 0,
       "pag": 0
     },
     {
       "ord": 13,
-      "proc": 6,
-      "fatt": 0,
-      "pag": 0
-    },
-    {
-      "ord": 11,
       "proc": 8,
       "fatt": 0,
       "pag": 0
     },
     {
-      "ord": 12,
+      "ord": 14,
       "proc": 7,
       "fatt": 1,
       "pag": 0
@@ -141,6 +141,176 @@
     }
   ],
   "acquisti": [
+    {
+      "id": "PPI-27-70",
+      "da": "Centro Fitness Monte Brè Sagl",
+      "a": "StreetWear SA",
+      "data": "27.11.2026",
+      "cosa": "2× Hoodie Hellstar (S-XXXL; nero, rosa, rosso, blu) – rosso, taglia S; 3× Hoodie Hellstar (S-XXXL; nero, rosa, rosso, blu) – rosso, taglia M; 5× Beanie Syna World (blu, rosso, giallo) – rosso",
+      "importo": 449.5,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 10:29"
+    },
+    {
+      "id": "PPI-27-69",
+      "da": "Garage Valmara SA",
+      "a": "Sportime",
+      "data": "27.11.2026",
+      "cosa": "1× Canestro basket Tarmak 3.05 m; 3× Palla basket NBA Wilson (misura 6 e 7)",
+      "importo": 345.95,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 10:24"
+    },
+    {
+      "id": "PPI-27-68",
+      "da": "Ferramenta Bernasconi SA",
+      "a": "Royal Parfums SA",
+      "data": "27.11.2026",
+      "cosa": "3× Paco Rabanne Invictus, profumo uomo; 3× Giorgio Armani Acqua di Giò; 2× Dolce & Gabbana Devotion Intense, profumo donna",
+      "importo": 518.56,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 10:19"
+    },
+    {
+      "id": "PPI-27-67",
+      "da": "Elettro Brenni SA",
+      "a": "Sapori di casa",
+      "data": "27.11.2026",
+      "cosa": "12× Vino bianco Chardonnay (Borgogna); 30× Panuozzo bresaola, mozzarella e rucola; 8× Cannoli siciliani; 10× Poke pronto; 24× Acqua frizzante San Benedetto 0.5 L; 24× Succo di frutta Michel 0.25 L",
+      "importo": 569.4,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 10:14"
+    },
+    {
+      "id": "PPI-27-66",
+      "da": "Farmacia Morbio Sagl",
+      "a": "SpaceOffice",
+      "data": "27.11.2026",
+      "cosa": "2× Cassettiera bianca (Kayar mobile bianco), 100x80x40 cm; 2× Scaffale bianco 150x100 cm (Kayar); 1× Armadio da ufficio in metallo 180x100 cm; 4× Classificatori neri",
+      "importo": 607.2,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 10:08"
+    },
+    {
+      "id": "PPI-27-65",
+      "da": "Hotel Riva Verbano Sagl",
+      "a": "StreetWear SA",
+      "data": "27.11.2026",
+      "cosa": "2× Hoodie Hellstar (S-XXXL; nero, rosa, rosso, blu) – blu, taglia M; 2× Hoodie Hellstar (S-XXXL; nero, rosa, rosso, blu) – blu, taglia L; 4× Beanie Syna World (blu, rosso, giallo) – blu",
+      "importo": 359.6,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 10:01"
+    },
+    {
+      "id": "PPI-27-64",
+      "da": "Studio Fiduciario Rezzonico & Partner Sagl",
+      "a": "Sportime",
+      "data": "27.11.2026",
+      "cosa": "3× Orologio fitness smart resistente all'acqua; 6× Tappetino stretch/yoga rosso; 6× Set elastici fitness Snowpea",
+      "importo": 541.5,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 09:52"
+    },
+    {
+      "id": "PPI-27-63",
+      "da": "Garage Valmara SA",
+      "a": "Royal Parfums SA",
+      "data": "27.11.2026",
+      "cosa": "5× Diesel Only The Brave; 4× Boss Bottled, profumo uomo; 4× Victoria's Secret Coconut Passion Shimmer",
+      "importo": 539.92,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 09:44"
+    },
+    {
+      "id": "PPI-27-62",
+      "da": "Tipografia Ceresio SA",
+      "a": "Sapori di casa",
+      "data": "27.11.2026",
+      "cosa": "20× Pizza Margherita pronta Regina; 15× Panuozzo bresaola, mozzarella e rucola; 6× Coca-Cola Original; 20× Tiramisù; 6× Vino rosso Barolo (Piemonte); 12× Acqua frizzante San Benedetto 0.5 L",
+      "importo": 431.45,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 09:36"
+    },
+    {
+      "id": "PPI-27-61",
+      "da": "Centro Fitness Monte Brè Sagl",
+      "a": "SpaceOffice",
+      "data": "27.11.2026",
+      "cosa": "1× Tavolo da ufficio grigio scuro 170x70 cm; 1× Sedia da ufficio ergonomica nera (Korel); 1× Orologio digitale da scrivania, nero; 1× Scaffale bianco 150x100 cm (Kayar)",
+      "importo": 444.4,
+      "stato": "ordinato",
+      "nota": "Conferma d'ordine: no",
+      "fasi": [
+        {
+          "data": "27.11.2026",
+          "evento": "ordinato"
+        }
+      ],
+      "invio": "2026-11-27 09:27"
+    },
     {
       "id": "PPI-27-60",
       "da": "Elettro Brenni SA",
